@@ -1,0 +1,1 @@
+"""My Kingdom game package."""

@@ -1,0 +1,26 @@
+2026-01-01 15:00:35 - MyKingdom - INFO - ============================================================
+2026-01-01 15:00:35 - MyKingdom - INFO - Game Logger Initialized
+2026-01-01 15:00:35 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260101_150035.log
+2026-01-01 15:00:35 - MyKingdom - INFO - ============================================================
+2026-01-01 15:00:36 - MyKingdom - INFO - Tiered World Generator initialized with seed: 12345
+2026-01-01 15:00:36 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-01 15:00:36 - MyKingdom - INFO - World Generation Demo initialized
+2026-01-01 15:00:36 - MyKingdom - INFO - === GENERATING WORLD MAP ===
+2026-01-01 15:00:36 - MyKingdom - INFO - Generating world map: 100x100...
+2026-01-01 15:00:40 - MyKingdom - INFO - World generation complete!
+2026-01-01 15:00:40 - MyKingdom - INFO - Biome distribution:
+2026-01-01 15:00:40 - MyKingdom - INFO -   tundra: 4058 tiles (40.6%)
+2026-01-01 15:00:40 - MyKingdom - INFO -   temperate_forest: 3215 tiles (32.1%)
+2026-01-01 15:00:40 - MyKingdom - INFO -   boreal_forest: 1847 tiles (18.5%)
+2026-01-01 15:00:40 - MyKingdom - INFO -   grassland: 735 tiles (7.3%)
+2026-01-01 15:00:40 - MyKingdom - INFO -   arid_shrubland: 132 tiles (1.3%)
+2026-01-01 15:00:40 - MyKingdom - INFO -   tropical_rainforest: 13 tiles (0.1%)
+2026-01-01 15:00:40 - MyKingdom - INFO - World map generation complete!
+2026-01-01 15:00:53 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:00:53 - MyKingdom - INFO - Generating region from world tile (71, 41)...
+2026-01-01 15:00:53 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.36
+2026-01-01 15:00:53 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:00:53 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:00:58 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:00:58 - MyKingdom - INFO - Generating local map from region chunk (27, 20)...
+2026-01-01 15:00:58 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.40

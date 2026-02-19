@@ -1,0 +1,298 @@
+2026-01-10 10:53:22 - MyKingdom - INFO - ============================================================
+2026-01-10 10:53:22 - MyKingdom - INFO - Game Logger Initialized
+2026-01-10 10:53:22 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260110_105322.log
+2026-01-10 10:53:22 - MyKingdom - INFO - ============================================================
+2026-01-10 10:53:23 - MyKingdom - INFO - ============================================================
+2026-01-10 10:53:23 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-10 10:53:23 - MyKingdom - INFO - ============================================================
+2026-01-10 10:53:23 - MyKingdom - INFO - Pygame initialized
+2026-01-10 10:53:23 - MyKingdom - INFO - Window created: 1280x720
+2026-01-10 10:53:23 - MyKingdom - INFO - Application initialization complete
+2026-01-10 10:53:23 - MyKingdom - INFO - Starting main application loop
+2026-01-10 10:53:23 - MyKingdom - INFO - Entering MENU state
+2026-01-10 10:53:23 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-10 10:53:23 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.13
+2026-01-10 10:53:23 - MyKingdom - INFO - Music manager initialized
+2026-01-10 10:53:23 - MyKingdom - INFO - Playing music: menu
+2026-01-10 10:53:23 - MyKingdom - INFO - Main menu initialized
+2026-01-10 10:53:26 - MyKingdom - INFO - Settings button clicked
+2026-01-10 10:53:26 - MyKingdom - INFO - Settings menu initialized
+2026-01-10 10:53:29 - MyKingdom - INFO - Music stopped
+2026-01-10 10:53:29 - MyKingdom - INFO - Music settings saved
+2026-01-10 10:53:29 - MyKingdom - INFO - Music disabled
+2026-01-10 10:53:30 - MyKingdom - INFO - Settings menu closed
+2026-01-11 19:52:17 - MyKingdom - INFO - Settings button clicked
+2026-01-11 19:52:17 - MyKingdom - INFO - Settings menu initialized
+2026-01-11 19:52:18 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:18 - MyKingdom - INFO - Music enabled
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.13
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.15
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.22
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.23
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.25
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.27
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.28
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.30
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.33
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.34
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.34
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.35
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.35
+2026-01-11 19:52:19 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:19 - MyKingdom - INFO - Music volume set to 0.36
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.37
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.37
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.38
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.38
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.38
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.39
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.39
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.40
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.42
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.43
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.43
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.44
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.44
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.45
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.45
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.45
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.45
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.48
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.49
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.51
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.52
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.53
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.53
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.54
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.54
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.54
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.54
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.55
+2026-01-11 19:52:20 - MyKingdom - INFO - Music settings saved
+2026-01-11 19:52:20 - MyKingdom - INFO - Music volume set to 0.55
+2026-01-11 19:52:21 - MyKingdom - INFO - Settings menu closed
+2026-01-11 19:52:21 - MyKingdom - INFO - Playing music: menu
+2026-01-11 19:52:24 - MyKingdom - INFO - New Game button clicked
+2026-01-11 19:52:27 - MyKingdom - INFO - Starting new game: fuck you malik
+2026-01-11 19:52:27 - MyKingdom - INFO - Starting new game: fuck you malik
+2026-01-11 19:52:27 - MyKingdom - INFO - Entering PLAYING state
+2026-01-11 19:52:27 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-11 19:52:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:27 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-11 19:52:27 - MyKingdom - INFO - Game state initialized
+2026-01-11 19:52:27 - MyKingdom - INFO - Tiered World Generator initialized with seed: 199124
+2026-01-11 19:52:27 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-11 19:52:31 - MyKingdom - INFO - World generation complete!
+2026-01-11 19:52:31 - MyKingdom - INFO - Biome distribution:
+2026-01-11 19:52:31 - MyKingdom - INFO -   tundra: 12464 tiles (55.4%)
+2026-01-11 19:52:31 - MyKingdom - INFO -   boreal_forest: 4816 tiles (21.4%)
+2026-01-11 19:52:31 - MyKingdom - INFO -   temperate_forest: 4391 tiles (19.5%)
+2026-01-11 19:52:31 - MyKingdom - INFO -   grassland: 671 tiles (3.0%)
+2026-01-11 19:52:31 - MyKingdom - INFO -   arid_shrubland: 152 tiles (0.7%)
+2026-01-11 19:52:31 - MyKingdom - INFO -   wetland: 6 tiles (0.0%)
+2026-01-11 19:52:31 - MyKingdom - INFO - Multi-stage world selection screen initialized
+2026-01-11 19:52:35 - MyKingdom - INFO - Generating region preview for world tile temperate_forest...
+2026-01-11 19:52:35 - MyKingdom - INFO - Generating region from world tile (61, 71)...
+2026-01-11 19:52:35 - MyKingdom - INFO -   Biome: temperate_forest, Elevation: 0.61
+2026-01-11 19:52:35 - MyKingdom - INFO - Advanced to REGION view for world tile (61, 71)
+2026-01-11 19:52:38 - MyKingdom - INFO - Generating local preview from region tile (34, 41)...
+2026-01-11 19:52:38 - MyKingdom - INFO - Generating local map from region chunk (34, 41)...
+2026-01-11 19:52:38 - MyKingdom - INFO -   Chunk analysis: Biome=temperate_forest, Avg Elev=0.43
+2026-01-11 19:52:38 - MyKingdom - INFO - Placed resource nodes on local map
+2026-01-11 19:52:38 - MyKingdom - INFO - Local map generated successfully
+2026-01-11 19:52:38 - MyKingdom - INFO - Advanced to LOCAL view
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:38 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:38 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Location confirmed!
+2026-01-11 19:52:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - === STARTING NEW GAME: fuck you malik ===
+2026-01-11 19:52:39 - MyKingdom - INFO - Using pre-generated world and tiles from selection screen
+2026-01-11 19:52:39 - MyKingdom - INFO - Using player-selected location: (61, 71)
+2026-01-11 19:52:39 - MyKingdom - INFO - Using pre-generated region tiles from preview
+2026-01-11 19:52:39 - MyKingdom - INFO - Using selected region coordinates: (34, 41)
+2026-01-11 19:52:39 - MyKingdom - INFO - Using pre-generated local tiles from preview - terrain will match preview!
+2026-01-11 19:52:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-11 19:52:39 - MyKingdom - INFO - Creating starting citizens...
+2026-01-11 19:52:39 - MyKingdom - INFO - Created citizen: Vale Fairwind (ID: 1)
+2026-01-11 19:52:39 - MyKingdom - INFO - Created citizen: Yara Clearwater (ID: 2)
+2026-01-11 19:52:39 - MyKingdom - INFO - Created citizen: Lysa Kindler (ID: 3)
+2026-01-11 19:52:39 - MyKingdom - INFO - Created citizen: Mira Quickstep (ID: 4)
+2026-01-11 19:52:39 - MyKingdom - INFO - Created citizen: Cedric Evergreen (ID: 5)
+2026-01-11 19:52:39 - MyKingdom - INFO - Collecting resource nodes from world...
+2026-01-11 19:52:39 - MyKingdom - INFO - Collected 1584 resource nodes from world
+2026-01-11 19:52:39 - MyKingdom - INFO - Spawning wagon stockpile...
+2026-01-11 19:52:39 - MyKingdom - INFO - Spawned wagon stockpile at (50, 50)
+2026-01-11 19:52:40 - MyKingdom - INFO - Game saved successfully: saves\fuck you malik.sav.gz
+2026-01-11 19:52:40 - MyKingdom - INFO - Game saved: fuck you malik
+2026-01-11 19:52:40 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-11 19:52:40 - MyKingdom - INFO - Game initialized successfully
+2026-01-11 19:52:41 - MyKingdom - INFO - Playing music: gameplay
+2026-01-11 19:52:58 - MyKingdom - INFO - Designation mode: ON (Gather Berries)
+2026-01-11 19:53:04 - MyKingdom - INFO - Designated 14 berry bushes for gathering
+2026-01-11 19:53:11 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 5 food - returning to wagon
+2026-01-11 19:53:12 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 5 food - returning to wagon
+2026-01-11 19:53:12 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 5 food - returning to wagon
+2026-01-11 19:53:12 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 5 food - returning to wagon
+2026-01-11 19:53:13 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 5 food - returning to wagon
+2026-01-11 19:53:13 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 5 food at wagon - Total: 105
+2026-01-11 19:53:16 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 5 food at wagon - Total: 110
+2026-01-11 19:53:16 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 5 food at wagon - Total: 115
+2026-01-11 19:53:16 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 5 food at wagon - Total: 120
+2026-01-11 19:53:17 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 5 food at wagon - Total: 125
+2026-01-11 19:53:21 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 5 food - returning to wagon
+2026-01-11 19:53:23 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 5 food at wagon - Total: 130
+2026-01-11 19:53:24 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 5 food - returning to wagon
+2026-01-11 19:53:24 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 5 food - returning to wagon
+2026-01-11 19:53:24 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 5 food - returning to wagon
+2026-01-11 19:53:25 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 5 food - returning to wagon
+2026-01-11 19:53:27 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 5 food at wagon - Total: 135
+2026-01-11 19:53:28 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 5 food at wagon - Total: 140
+2026-01-11 19:53:28 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 5 food at wagon - Total: 145
+2026-01-11 19:53:29 - MyKingdom - INFO - No berry found in selected area
+2026-01-11 19:53:29 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 5 food at wagon - Total: 150
+2026-01-11 19:53:30 - MyKingdom - INFO - Switched to WORLD view
+2026-01-11 19:53:31 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 5 food - returning to wagon
+2026-01-11 19:53:31 - MyKingdom - INFO - Switched to WORLD view
+2026-01-11 19:53:33 - MyKingdom - INFO - Quit event received from game
+2026-01-11 19:53:33 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 5 food at wagon - Total: 155
+2026-01-11 19:53:33 - MyKingdom - INFO - ============================================================
+2026-01-11 19:53:33 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-11 19:53:33 - MyKingdom - INFO - ============================================================

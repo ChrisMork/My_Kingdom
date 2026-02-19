@@ -1,0 +1,19 @@
+2025-12-31 15:03:42 - MyKingdom - INFO - ============================================================
+2025-12-31 15:03:42 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 15:03:42 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_150342.log
+2025-12-31 15:03:42 - MyKingdom - INFO - ============================================================
+2025-12-31 15:03:42 - MyKingdom - INFO - ============================================================
+2025-12-31 15:03:42 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 15:03:42 - MyKingdom - INFO - ============================================================
+2025-12-31 15:03:42 - MyKingdom - INFO - Pygame initialized
+2025-12-31 15:03:42 - MyKingdom - INFO - Window created: 1280x720
+2025-12-31 15:03:42 - MyKingdom - INFO - Application initialization complete
+2025-12-31 15:03:42 - MyKingdom - INFO - Starting main application loop
+2025-12-31 15:03:42 - MyKingdom - INFO - Entering MENU state
+2025-12-31 15:03:42 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 15:03:42 - MyKingdom - INFO - Main menu initialized
+2025-12-31 15:06:00 - MyKingdom - INFO - Settings button clicked
+2025-12-31 15:06:02 - MyKingdom - INFO - Quit event received from menu
+2025-12-31 15:06:02 - MyKingdom - INFO - ============================================================
+2025-12-31 15:06:02 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2025-12-31 15:06:02 - MyKingdom - INFO - ============================================================

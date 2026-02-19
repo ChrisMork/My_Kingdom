@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "WebSearch",
+      "WebFetch(domain:rpgcodex.net)",
+      "WebFetch(domain:songsofsyx.itch.io)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:indiegamepicks.wordpress.com)",
+      "WebFetch(domain:dlgaming.net)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

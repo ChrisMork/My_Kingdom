@@ -1,0 +1,49 @@
+2026-01-02 13:42:57 - MyKingdom - INFO - ============================================================
+2026-01-02 13:42:57 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 13:42:57 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_134257.log
+2026-01-02 13:42:57 - MyKingdom - INFO - ============================================================
+2026-01-02 13:42:57 - MyKingdom - INFO - ============================================================
+2026-01-02 13:42:57 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 13:42:57 - MyKingdom - INFO - ============================================================
+2026-01-02 13:42:57 - MyKingdom - INFO - Pygame initialized
+2026-01-02 13:42:57 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 13:42:57 - MyKingdom - INFO - Application initialization complete
+2026-01-02 13:42:57 - MyKingdom - INFO - Starting main application loop
+2026-01-02 13:42:57 - MyKingdom - INFO - Entering MENU state
+2026-01-02 13:42:57 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 13:42:57 - MyKingdom - INFO - Main menu initialized
+2026-01-02 13:42:59 - MyKingdom - INFO - Load Game button clicked
+2026-01-02 13:42:59 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 13:42:59 - MyKingdom - INFO - Found 8 save files
+2026-01-02 13:43:02 - MyKingdom - INFO - Loading game: jhjk
+2026-01-02 13:43:02 - MyKingdom - INFO - Loading game: jhjk
+2026-01-02 13:43:02 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 13:43:02 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 13:43:02 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 13:43:02 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 13:43:02 - MyKingdom - INFO - Game state initialized
+2026-01-02 13:43:02 - MyKingdom - INFO - Loaded compressed save: saves\jhjk.sav.gz
+2026-01-02 13:43:02 - MyKingdom - INFO - Renderer biome set to: boreal_forest
+2026-01-02 13:43:02 - MyKingdom - INFO - World state deserialized: 5 citizens, 0 buildings
+2026-01-02 13:43:02 - MyKingdom - INFO - Game loaded: jhjk
+2026-01-02 13:43:02 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 13:43:15 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 13:43:18 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 13:43:19 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 13:43:19 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 13:43:20 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 13:43:21 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 13:43:21 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 13:43:22 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 13:43:22 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 13:43:25 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 13:43:27 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 13:43:28 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 13:43:29 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 13:43:29 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 13:43:29 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 13:43:30 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 13:43:32 - MyKingdom - INFO - Quit event received from game
+2026-01-02 13:43:32 - MyKingdom - INFO - ============================================================
+2026-01-02 13:43:32 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 13:43:32 - MyKingdom - INFO - ============================================================

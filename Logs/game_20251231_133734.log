@@ -1,0 +1,32 @@
+2025-12-31 13:37:34 - MyKingdom - INFO - ============================================================
+2025-12-31 13:37:34 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 13:37:34 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_133734.log
+2025-12-31 13:37:34 - MyKingdom - INFO - ============================================================
+2025-12-31 13:37:34 - MyKingdom - INFO - ============================================================
+2025-12-31 13:37:34 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 13:37:34 - MyKingdom - INFO - ============================================================
+2025-12-31 13:37:34 - MyKingdom - INFO - Pygame initialized
+2025-12-31 13:37:34 - MyKingdom - INFO - Window created: 1280x720
+2025-12-31 13:37:34 - MyKingdom - INFO - Application initialization complete
+2025-12-31 13:37:34 - MyKingdom - INFO - Starting main application loop
+2025-12-31 13:37:34 - MyKingdom - INFO - Entering MENU state
+2025-12-31 13:37:34 - MyKingdom - INFO - Main menu initialized
+2025-12-31 13:37:36 - MyKingdom - INFO - Play button clicked - starting game
+2025-12-31 13:37:36 - MyKingdom - INFO - Entering PLAYING state
+2025-12-31 13:37:36 - MyKingdom - INFO - Camera initialized with zoom level: 1.0
+2025-12-31 13:37:36 - MyKingdom - INFO - Initializing game world...
+2025-12-31 13:37:36 - MyKingdom - INFO - World generator initialized with seed: 686396
+2025-12-31 13:37:36 - MyKingdom - INFO - World size: 500x500
+2025-12-31 13:37:36 - MyKingdom - INFO - Starting world generation...
+2025-12-31 13:37:38 - MyKingdom - INFO - World generation completed
+2025-12-31 13:37:38 - MyKingdom - INFO - Terrain distribution:
+2025-12-31 13:37:38 - MyKingdom - INFO -   dirt: 1123 tiles (0.4%)
+2025-12-31 13:37:38 - MyKingdom - INFO -   forest: 34783 tiles (13.9%)
+2025-12-31 13:37:38 - MyKingdom - INFO -   grass: 187883 tiles (75.2%)
+2025-12-31 13:37:38 - MyKingdom - INFO -   sand: 18401 tiles (7.4%)
+2025-12-31 13:37:38 - MyKingdom - INFO -   water: 7810 tiles (3.1%)
+2025-12-31 13:37:38 - MyKingdom - INFO - Advanced tile renderer initialized
+2025-12-31 13:37:38 - MyKingdom - INFO - Game state initialized and ready to play
+2025-12-31 13:37:40 - MyKingdom - DEBUG - Zoom changed: 1.00 -> 0.90
+2025-12-31 13:37:40 - MyKingdom - DEBUG - Zoom changed: 0.90 -> 0.80
+2025-12-31 13:37:40 - MyKingdom - DEBUG - Zoom changed: 0.80 -> 0.70

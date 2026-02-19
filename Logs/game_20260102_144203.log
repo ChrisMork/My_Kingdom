@@ -1,0 +1,77 @@
+2026-01-02 14:42:03 - MyKingdom - INFO - ============================================================
+2026-01-02 14:42:03 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 14:42:03 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_144203.log
+2026-01-02 14:42:03 - MyKingdom - INFO - ============================================================
+2026-01-02 14:42:03 - MyKingdom - INFO - ============================================================
+2026-01-02 14:42:03 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 14:42:03 - MyKingdom - INFO - ============================================================
+2026-01-02 14:42:04 - MyKingdom - INFO - Pygame initialized
+2026-01-02 14:42:04 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 14:42:04 - MyKingdom - INFO - Application initialization complete
+2026-01-02 14:42:04 - MyKingdom - INFO - Starting main application loop
+2026-01-02 14:42:04 - MyKingdom - INFO - Entering MENU state
+2026-01-02 14:42:04 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 14:42:04 - MyKingdom - INFO - Main menu initialized
+2026-01-02 14:42:06 - MyKingdom - INFO - New Game button clicked
+2026-01-02 14:42:10 - MyKingdom - INFO - Starting new game: testing
+2026-01-02 14:42:10 - MyKingdom - INFO - Starting new game: testing
+2026-01-02 14:42:10 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 14:42:10 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 14:42:10 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 14:42:10 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 14:42:10 - MyKingdom - INFO - Game state initialized
+2026-01-02 14:42:10 - MyKingdom - INFO - Tiered World Generator initialized with seed: 114727
+2026-01-02 14:42:10 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 14:42:11 - MyKingdom - INFO - World generation complete!
+2026-01-02 14:42:11 - MyKingdom - INFO - Biome distribution:
+2026-01-02 14:42:11 - MyKingdom - INFO -   tundra: 9990 tiles (44.4%)
+2026-01-02 14:42:11 - MyKingdom - INFO -   boreal_forest: 5720 tiles (25.4%)
+2026-01-02 14:42:11 - MyKingdom - INFO -   temperate_forest: 5674 tiles (25.2%)
+2026-01-02 14:42:11 - MyKingdom - INFO -   grassland: 1018 tiles (4.5%)
+2026-01-02 14:42:11 - MyKingdom - INFO -   arid_shrubland: 96 tiles (0.4%)
+2026-01-02 14:42:11 - MyKingdom - INFO -   wetland: 1 tiles (0.0%)
+2026-01-02 14:42:11 - MyKingdom - INFO -   tropical_rainforest: 1 tiles (0.0%)
+2026-01-02 14:42:11 - MyKingdom - INFO - World selection screen initialized
+2026-01-02 14:42:26 - MyKingdom - INFO - Selected world tile: (70, 62)
+2026-01-02 14:42:26 - MyKingdom - INFO - === STARTING NEW GAME: testing ===
+2026-01-02 14:42:26 - MyKingdom - INFO - Tiered World Generator initialized with seed: 575506
+2026-01-02 14:42:26 - MyKingdom - INFO - Generating large world map...
+2026-01-02 14:42:26 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 14:42:26 - MyKingdom - INFO - World generation complete!
+2026-01-02 14:42:26 - MyKingdom - INFO - Biome distribution:
+2026-01-02 14:42:26 - MyKingdom - INFO -   tundra: 12181 tiles (54.1%)
+2026-01-02 14:42:26 - MyKingdom - INFO -   boreal_forest: 6259 tiles (27.8%)
+2026-01-02 14:42:26 - MyKingdom - INFO -   temperate_forest: 3160 tiles (14.0%)
+2026-01-02 14:42:26 - MyKingdom - INFO -   grassland: 856 tiles (3.8%)
+2026-01-02 14:42:26 - MyKingdom - INFO -   arid_shrubland: 44 tiles (0.2%)
+2026-01-02 14:42:26 - MyKingdom - INFO - Using player-selected location: (70, 62)
+2026-01-02 14:42:26 - MyKingdom - INFO - Generating starting region (biome: temperate_forest)...
+2026-01-02 14:42:26 - MyKingdom - INFO - Generating region from world tile (70, 62)...
+2026-01-02 14:42:26 - MyKingdom - INFO -   Biome: temperate_forest, Elevation: 0.41
+2026-01-02 14:42:26 - MyKingdom - INFO - Generating local playable map...
+2026-01-02 14:42:26 - MyKingdom - INFO - Generating local map from region chunk (40, 40)...
+2026-01-02 14:42:26 - MyKingdom - INFO -   Chunk analysis: Biome=temperate_forest, Avg Elev=0.34
+2026-01-02 14:42:26 - MyKingdom - INFO - Local map generated successfully
+2026-01-02 14:42:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 14:42:26 - MyKingdom - INFO - Creating starting citizens...
+2026-01-02 14:42:26 - MyKingdom - INFO - Created citizen: Finn Ashwood (ID: 1)
+2026-01-02 14:42:26 - MyKingdom - INFO - Created citizen: Olwen Lightfoot (ID: 2)
+2026-01-02 14:42:26 - MyKingdom - INFO - Created citizen: Isla Quickstep (ID: 3)
+2026-01-02 14:42:26 - MyKingdom - INFO - Created citizen: Zara Fairwind (ID: 4)
+2026-01-02 14:42:26 - MyKingdom - INFO - Created citizen: Thora Nightshade (ID: 5)
+2026-01-02 14:42:27 - MyKingdom - INFO - Game saved successfully: saves\testing.sav.gz
+2026-01-02 14:42:27 - MyKingdom - INFO - Game saved: testing
+2026-01-02 14:42:27 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-02 14:42:27 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 14:42:36 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:42:38 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:42:39 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 14:42:41 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:42:43 - MyKingdom - INFO - Snapped camera to home in region view
+2026-01-02 14:42:44 - MyKingdom - INFO - Snapped camera to home in region view
+2026-01-02 14:42:46 - MyKingdom - INFO - Snapped camera to home in region view
+2026-01-02 14:42:47 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:42:52 - MyKingdom - INFO - Quit event received from game
+2026-01-02 14:42:52 - MyKingdom - INFO - ============================================================
+2026-01-02 14:42:52 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 14:42:52 - MyKingdom - INFO - ============================================================

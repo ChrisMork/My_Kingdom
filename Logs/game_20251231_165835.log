@@ -1,0 +1,40 @@
+2025-12-31 16:58:35 - MyKingdom - INFO - ============================================================
+2025-12-31 16:58:35 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 16:58:35 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_165835.log
+2025-12-31 16:58:35 - MyKingdom - INFO - ============================================================
+2025-12-31 16:58:35 - MyKingdom - INFO - ============================================================
+2025-12-31 16:58:35 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 16:58:35 - MyKingdom - INFO - ============================================================
+2025-12-31 16:58:35 - MyKingdom - INFO - Pygame initialized
+2025-12-31 16:58:35 - MyKingdom - INFO - Window created: 1280x720
+2025-12-31 16:58:35 - MyKingdom - INFO - Application initialization complete
+2025-12-31 16:58:35 - MyKingdom - INFO - Starting main application loop
+2025-12-31 16:58:35 - MyKingdom - INFO - Entering MENU state
+2025-12-31 16:58:35 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 16:58:35 - MyKingdom - INFO - Main menu initialized
+2025-12-31 16:58:54 - MyKingdom - INFO - Play button clicked - starting game
+2025-12-31 16:58:54 - MyKingdom - INFO - Entering PLAYING state
+2025-12-31 16:58:54 - MyKingdom - INFO - Initializing tile-based world map...
+2025-12-31 16:58:54 - MyKingdom - INFO - World map created: 50x50 tiles
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: grass
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: grass_flowers
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: dirt
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: desert_sand
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: stone_gray
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: water_shallow
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: water_deep
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded tile: forest_floor
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded object: tree_oak
+2025-12-31 16:58:54 - MyKingdom - INFO - Loaded object: tree_pine
+2025-12-31 16:58:55 - MyKingdom - INFO - Loaded object: rock_large
+2025-12-31 16:58:55 - MyKingdom - INFO - Loaded object: bush_green
+2025-12-31 16:58:55 - MyKingdom - INFO - Loaded object: house_small
+2025-12-31 16:58:55 - MyKingdom - INFO - Loaded object: well
+2025-12-31 16:58:55 - MyKingdom - INFO - Loaded 8 terrain tiles and 6 objects
+2025-12-31 16:58:55 - MyKingdom - INFO - Generated procedural world
+2025-12-31 16:58:55 - MyKingdom - INFO - World map initialized with AI-generated tiles
+2025-12-31 16:58:55 - MyKingdom - INFO - Game state initialized and ready to play
+2025-12-31 16:59:14 - MyKingdom - INFO - Quit event received from game
+2025-12-31 16:59:14 - MyKingdom - INFO - ============================================================
+2025-12-31 16:59:14 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2025-12-31 16:59:14 - MyKingdom - INFO - ============================================================

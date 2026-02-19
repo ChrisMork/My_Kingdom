@@ -1,0 +1,50 @@
+2026-01-02 18:23:52 - MyKingdom - INFO - ============================================================
+2026-01-02 18:23:52 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 18:23:52 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_182352.log
+2026-01-02 18:23:52 - MyKingdom - INFO - ============================================================
+2026-01-02 18:23:52 - MyKingdom - INFO - ============================================================
+2026-01-02 18:23:52 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 18:23:52 - MyKingdom - INFO - ============================================================
+2026-01-02 18:23:52 - MyKingdom - INFO - Pygame initialized
+2026-01-02 18:23:52 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 18:23:52 - MyKingdom - INFO - Application initialization complete
+2026-01-02 18:23:52 - MyKingdom - INFO - Starting main application loop
+2026-01-02 18:23:52 - MyKingdom - INFO - Entering MENU state
+2026-01-02 18:23:52 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 18:23:52 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.07
+2026-01-02 18:23:52 - MyKingdom - INFO - Music manager initialized
+2026-01-02 18:23:52 - MyKingdom - INFO - Playing music: menu
+2026-01-02 18:23:52 - MyKingdom - INFO - Main menu initialized
+2026-01-02 18:23:54 - MyKingdom - INFO - Load Game button clicked
+2026-01-02 18:23:54 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 18:23:54 - MyKingdom - INFO - Found 15 save files
+2026-01-02 18:23:56 - MyKingdom - INFO - Loading game: 123
+2026-01-02 18:23:56 - MyKingdom - INFO - Loading game: 123
+2026-01-02 18:23:56 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 18:23:56 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 18:23:56 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 18:23:56 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 18:23:56 - MyKingdom - INFO - Game state initialized
+2026-01-02 18:23:56 - MyKingdom - INFO - Loaded compressed save: saves\123.sav.gz
+2026-01-02 18:23:56 - MyKingdom - INFO - Renderer biome set to: boreal_forest
+2026-01-02 18:23:56 - MyKingdom - INFO - Restored world map: 150x150
+2026-01-02 18:23:56 - MyKingdom - INFO - Restored region map: 80x80
+2026-01-02 18:23:56 - MyKingdom - INFO - World state deserialized: 5 citizens, 3 buildings
+2026-01-02 18:23:56 - MyKingdom - INFO - Game loaded: 123
+2026-01-02 18:23:56 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 18:23:57 - MyKingdom - INFO - Playing music: gameplay
+2026-01-02 18:23:59 - MyKingdom - INFO - Designation mode: ON (Chop Trees)
+2026-01-02 18:24:06 - MyKingdom - INFO - Designated 9 trees for chopping
+2026-01-02 18:24:58 - MyKingdom - INFO - No trees found in selected area
+2026-01-02 18:25:06 - MyKingdom - INFO - Designation mode: OFF
+2026-01-02 18:25:08 - MyKingdom - INFO - Designation mode: ON (Chop Trees)
+2026-01-02 18:25:10 - MyKingdom - INFO - Designated 3 trees for chopping
+2026-01-02 18:25:12 - MyKingdom - INFO - Designated 3 trees for chopping
+2026-01-02 18:25:13 - MyKingdom - INFO - No trees found in selected area
+2026-01-02 18:25:15 - MyKingdom - INFO - No trees found in selected area
+2026-01-02 18:25:18 - MyKingdom - INFO - Designated 22 trees for chopping
+2026-01-02 18:25:20 - MyKingdom - INFO - Designation mode: OFF
+2026-01-02 18:25:31 - MyKingdom - INFO - Quit event received from game
+2026-01-02 18:25:31 - MyKingdom - INFO - ============================================================
+2026-01-02 18:25:31 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 18:25:31 - MyKingdom - INFO - ============================================================

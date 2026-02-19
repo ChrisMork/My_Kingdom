@@ -1,0 +1,31 @@
+2025-12-31 15:40:12 - MyKingdom - INFO - ============================================================
+2025-12-31 15:40:12 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 15:40:12 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_154012.log
+2025-12-31 15:40:12 - MyKingdom - INFO - ============================================================
+2025-12-31 15:40:12 - MyKingdom - INFO - Settings loaded successfully
+2025-12-31 15:40:12 - MyKingdom - INFO - ============================================================
+2025-12-31 15:40:12 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 15:40:12 - MyKingdom - INFO - ============================================================
+2025-12-31 15:40:12 - MyKingdom - INFO - Pygame initialized
+2025-12-31 15:40:13 - MyKingdom - INFO - Window created: 2560x1440, fullscreen=True, vsync=True
+2025-12-31 15:40:13 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:40:13 - MyKingdom - INFO - Application initialization complete
+2025-12-31 15:40:13 - MyKingdom - INFO - Starting main application loop
+2025-12-31 15:40:13 - MyKingdom - INFO - Entering MENU state
+2025-12-31 15:40:13 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 15:40:13 - MyKingdom - INFO - Main menu initialized
+2025-12-31 15:40:18 - MyKingdom - INFO - Settings button clicked
+2025-12-31 15:40:18 - MyKingdom - INFO - Entering SETTINGS state
+2025-12-31 15:40:18 - MyKingdom - INFO - Settings menu initialized
+2025-12-31 15:40:27 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:40:27 - MyKingdom - INFO - Display updated: 1920x1080, fullscreen=True, vsync=True
+2025-12-31 15:40:27 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:40:28 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:40:28 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:41:23 - MyKingdom - INFO - Entering MENU state
+2025-12-31 15:41:23 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 15:41:23 - MyKingdom - INFO - Main menu initialized
+2025-12-31 15:41:27 - MyKingdom - INFO - Quit event received from menu
+2025-12-31 15:41:27 - MyKingdom - INFO - ============================================================
+2025-12-31 15:41:27 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2025-12-31 15:41:27 - MyKingdom - INFO - ============================================================

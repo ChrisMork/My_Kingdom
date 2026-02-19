@@ -1,0 +1,337 @@
+2026-01-02 20:11:48 - MyKingdom - INFO - ============================================================
+2026-01-02 20:11:48 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 20:11:48 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_201148.log
+2026-01-02 20:11:48 - MyKingdom - INFO - ============================================================
+2026-01-02 20:11:49 - MyKingdom - INFO - ============================================================
+2026-01-02 20:11:49 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 20:11:49 - MyKingdom - INFO - ============================================================
+2026-01-02 20:11:49 - MyKingdom - INFO - Pygame initialized
+2026-01-02 20:11:49 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 20:11:49 - MyKingdom - INFO - Application initialization complete
+2026-01-02 20:11:49 - MyKingdom - INFO - Starting main application loop
+2026-01-02 20:11:49 - MyKingdom - INFO - Entering MENU state
+2026-01-02 20:11:49 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 20:11:49 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.07
+2026-01-02 20:11:49 - MyKingdom - INFO - Music manager initialized
+2026-01-02 20:11:49 - MyKingdom - INFO - Playing music: menu
+2026-01-02 20:11:49 - MyKingdom - INFO - Main menu initialized
+2026-01-02 20:12:16 - MyKingdom - INFO - New Game button clicked
+2026-01-02 20:12:17 - MyKingdom - INFO - Starting new game: 123
+2026-01-02 20:12:17 - MyKingdom - INFO - Starting new game: 123
+2026-01-02 20:12:17 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 20:12:17 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 20:12:17 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:17 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 20:12:17 - MyKingdom - INFO - Game state initialized
+2026-01-02 20:12:17 - MyKingdom - INFO - Tiered World Generator initialized with seed: 682954
+2026-01-02 20:12:17 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 20:12:18 - MyKingdom - INFO - World generation complete!
+2026-01-02 20:12:18 - MyKingdom - INFO - Biome distribution:
+2026-01-02 20:12:18 - MyKingdom - INFO -   tundra: 11122 tiles (49.4%)
+2026-01-02 20:12:18 - MyKingdom - INFO -   boreal_forest: 5618 tiles (25.0%)
+2026-01-02 20:12:18 - MyKingdom - INFO -   temperate_forest: 5393 tiles (24.0%)
+2026-01-02 20:12:18 - MyKingdom - INFO -   grassland: 367 tiles (1.6%)
+2026-01-02 20:12:18 - MyKingdom - INFO - Multi-stage world selection screen initialized
+2026-01-02 20:12:24 - MyKingdom - INFO - Generating region preview for world tile temperate_forest...
+2026-01-02 20:12:24 - MyKingdom - INFO - Generating region from world tile (75, 75)...
+2026-01-02 20:12:24 - MyKingdom - INFO -   Biome: temperate_forest, Elevation: 0.49
+2026-01-02 20:12:24 - MyKingdom - INFO - Advanced to REGION view for world tile (75, 75)
+2026-01-02 20:12:25 - MyKingdom - INFO - Generating local preview from region tile (40, 40)...
+2026-01-02 20:12:25 - MyKingdom - INFO - Generating local map from region chunk (40, 40)...
+2026-01-02 20:12:25 - MyKingdom - INFO -   Chunk analysis: Biome=temperate_forest, Avg Elev=0.43
+2026-01-02 20:12:25 - MyKingdom - INFO - Placed resource nodes on local map
+2026-01-02 20:12:25 - MyKingdom - INFO - Local map generated successfully
+2026-01-02 20:12:25 - MyKingdom - INFO - Advanced to LOCAL view
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:25 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:25 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:26 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:26 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Location confirmed!
+2026-01-02 20:12:27 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - === STARTING NEW GAME: 123 ===
+2026-01-02 20:12:27 - MyKingdom - INFO - Using pre-generated world and tiles from selection screen
+2026-01-02 20:12:27 - MyKingdom - INFO - Using player-selected location: (75, 75)
+2026-01-02 20:12:27 - MyKingdom - INFO - Using pre-generated region tiles from preview
+2026-01-02 20:12:27 - MyKingdom - INFO - Using selected region coordinates: (40, 40)
+2026-01-02 20:12:27 - MyKingdom - INFO - Using pre-generated local tiles from preview - terrain will match preview!
+2026-01-02 20:12:27 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:12:27 - MyKingdom - INFO - Creating starting citizens...
+2026-01-02 20:12:27 - MyKingdom - INFO - Created citizen: Vale Fairwind (ID: 1)
+2026-01-02 20:12:27 - MyKingdom - INFO - Created citizen: Yara Clearwater (ID: 2)
+2026-01-02 20:12:27 - MyKingdom - INFO - Created citizen: Lysa Kindler (ID: 3)
+2026-01-02 20:12:27 - MyKingdom - INFO - Created citizen: Mira Quickstep (ID: 4)
+2026-01-02 20:12:27 - MyKingdom - INFO - Created citizen: Cedric Evergreen (ID: 5)
+2026-01-02 20:12:27 - MyKingdom - INFO - Collecting resource nodes from world...
+2026-01-02 20:12:27 - MyKingdom - INFO - Collected 2976 resource nodes from world
+2026-01-02 20:12:27 - MyKingdom - INFO - Spawning wagon stockpile...
+2026-01-02 20:12:27 - MyKingdom - INFO - Spawned wagon stockpile at (50, 50)
+2026-01-02 20:12:28 - MyKingdom - INFO - Game saved successfully: saves\123.sav.gz
+2026-01-02 20:12:28 - MyKingdom - INFO - Game saved: 123
+2026-01-02 20:12:28 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-02 20:12:28 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 20:12:29 - MyKingdom - INFO - Playing music: gameplay
+2026-01-02 20:12:32 - MyKingdom - INFO - Building mode toggled: ON
+2026-01-02 20:12:34 - MyKingdom - INFO - Building mode toggled: OFF
+2026-01-02 20:12:35 - MyKingdom - INFO - Designation mode: ON (Chop Trees)
+2026-01-02 20:12:41 - MyKingdom - INFO - Designated 38 trees for chopping
+2026-01-02 20:12:42 - MyKingdom - INFO - No trees found in selected area
+2026-01-02 20:12:47 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 4 wood - returning to wagon
+2026-01-02 20:12:48 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 4 wood - returning to wagon
+2026-01-02 20:12:48 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 4 wood - returning to wagon
+2026-01-02 20:12:48 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 4 wood - returning to wagon
+2026-01-02 20:12:49 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 4 wood - returning to wagon
+2026-01-02 20:12:49 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 4 wood at wagon - Total: 104
+2026-01-02 20:12:50 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 4 wood at wagon - Total: 108
+2026-01-02 20:12:50 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 4 wood at wagon - Total: 112
+2026-01-02 20:12:50 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 4 wood at wagon - Total: 116
+2026-01-02 20:12:51 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 4 wood at wagon - Total: 120
+2026-01-02 20:12:57 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 4 wood - returning to wagon
+2026-01-02 20:12:57 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 4 wood - returning to wagon
+2026-01-02 20:12:57 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 4 wood - returning to wagon
+2026-01-02 20:12:58 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 4 wood - returning to wagon
+2026-01-02 20:12:58 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 4 wood - returning to wagon
+2026-01-02 20:12:59 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 4 wood at wagon - Total: 124
+2026-01-02 20:12:59 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 4 wood at wagon - Total: 128
+2026-01-02 20:13:00 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 4 wood at wagon - Total: 132
+2026-01-02 20:13:00 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 4 wood at wagon - Total: 136
+2026-01-02 20:13:00 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 4 wood at wagon - Total: 140
+2026-01-02 20:13:07 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 4 wood - returning to wagon
+2026-01-02 20:13:07 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 4 wood - returning to wagon
+2026-01-02 20:13:08 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 4 wood - returning to wagon
+2026-01-02 20:13:08 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 4 wood - returning to wagon
+2026-01-02 20:13:08 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 4 wood - returning to wagon
+2026-01-02 20:13:09 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 4 wood at wagon - Total: 144
+2026-01-02 20:13:10 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 4 wood at wagon - Total: 148
+2026-01-02 20:13:10 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 4 wood at wagon - Total: 152
+2026-01-02 20:13:11 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 4 wood at wagon - Total: 156
+2026-01-02 20:13:11 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 4 wood at wagon - Total: 160
+2026-01-02 20:13:17 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 4 wood - returning to wagon
+2026-01-02 20:13:18 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 4 wood - returning to wagon
+2026-01-02 20:13:18 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 4 wood - returning to wagon
+2026-01-02 20:13:19 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 4 wood - returning to wagon
+2026-01-02 20:13:19 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 4 wood - returning to wagon
+2026-01-02 20:13:20 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 4 wood at wagon - Total: 164
+2026-01-02 20:13:20 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 4 wood at wagon - Total: 168
+2026-01-02 20:13:21 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 4 wood at wagon - Total: 172
+2026-01-02 20:13:21 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 4 wood at wagon - Total: 176
+2026-01-02 20:13:21 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 4 wood at wagon - Total: 180
+2026-01-02 20:13:28 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 4 wood - returning to wagon
+2026-01-02 20:13:28 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 4 wood - returning to wagon
+2026-01-02 20:13:30 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 4 wood - returning to wagon
+2026-01-02 20:13:30 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 4 wood - returning to wagon
+2026-01-02 20:13:30 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 4 wood - returning to wagon
+2026-01-02 20:13:31 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 4 wood at wagon - Total: 184
+2026-01-02 20:13:31 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 4 wood at wagon - Total: 188
+2026-01-02 20:13:33 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 4 wood at wagon - Total: 192
+2026-01-02 20:13:33 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 4 wood at wagon - Total: 196
+2026-01-02 20:13:33 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 4 wood at wagon - Total: 200
+2026-01-02 20:13:34 - MyKingdom - INFO - No trees found in selected area
+2026-01-02 20:13:35 - MyKingdom - INFO - Escape pressed - showing pause menu
+2026-01-02 20:13:35 - MyKingdom - INFO - Pause menu initialized
+2026-01-02 20:13:36 - MyKingdom - INFO - Resume button clicked
+2026-01-02 20:13:36 - MyKingdom - INFO - Resuming game
+2026-01-02 20:13:38 - MyKingdom - INFO - Designation mode: OFF
+2026-01-02 20:13:39 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 4 wood - returning to wagon
+2026-01-02 20:13:41 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 4 wood - returning to wagon
+2026-01-02 20:13:42 - MyKingdom - INFO - Designation mode: ON (Mine Stone)
+2026-01-02 20:13:42 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 4 wood - returning to wagon
+2026-01-02 20:13:43 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 4 wood at wagon - Total: 204
+2026-01-02 20:13:43 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 4 wood - returning to wagon
+2026-01-02 20:13:43 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 4 wood - returning to wagon
+2026-01-02 20:13:44 - MyKingdom - INFO - No stone found in selected area
+2026-01-02 20:13:44 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 4 wood at wagon - Total: 208
+2026-01-02 20:13:46 - MyKingdom - INFO - No stone found in selected area
+2026-01-02 20:13:46 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 4 wood at wagon - Total: 212
+2026-01-02 20:13:46 - MyKingdom - INFO - Designation mode: ON (Gather Berries)
+2026-01-02 20:13:46 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 4 wood at wagon - Total: 216
+2026-01-02 20:13:46 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 4 wood at wagon - Total: 220
+2026-01-02 20:13:48 - MyKingdom - INFO - Designated 56 berry bushes for gathering
+2026-01-02 20:13:51 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 4 wood - returning to wagon
+2026-01-02 20:13:53 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 4 wood - returning to wagon
+2026-01-02 20:13:55 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 4 wood - returning to wagon
+2026-01-02 20:13:55 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 4 wood at wagon - Total: 224
+2026-01-02 20:13:55 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 4 wood - returning to wagon
+2026-01-02 20:13:55 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 4 wood - returning to wagon
+2026-01-02 20:13:57 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 4 wood at wagon - Total: 228
+2026-01-02 20:13:58 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 4 wood at wagon - Total: 232
+2026-01-02 20:13:59 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 4 wood at wagon - Total: 236
+2026-01-02 20:13:59 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 4 wood at wagon - Total: 240
+2026-01-02 20:14:00 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 5 food - returning to wagon
+2026-01-02 20:14:01 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 5 food at wagon - Total: 105
+2026-01-02 20:14:03 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 5 food - returning to wagon
+2026-01-02 20:14:03 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 5 food at wagon - Total: 110
+2026-01-02 20:14:04 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 5 food - returning to wagon
+2026-01-02 20:14:05 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 5 food at wagon - Total: 115
+2026-01-02 20:14:05 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 5 food - returning to wagon
+2026-01-02 20:14:05 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 5 food - returning to wagon
+2026-01-02 20:14:06 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 5 food at wagon - Total: 120
+2026-01-02 20:14:06 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 5 food at wagon - Total: 125
+2026-01-02 20:14:06 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 5 food - returning to wagon
+2026-01-02 20:14:06 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 5 food at wagon - Total: 130
+2026-01-02 20:14:09 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 5 food - returning to wagon
+2026-01-02 20:14:09 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 5 food at wagon - Total: 135
+2026-01-02 20:14:10 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 5 food - returning to wagon
+2026-01-02 20:14:11 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 5 food at wagon - Total: 140
+2026-01-02 20:14:11 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 5 food - returning to wagon
+2026-01-02 20:14:12 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 5 food - returning to wagon
+2026-01-02 20:14:12 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 5 food - returning to wagon
+2026-01-02 20:14:12 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 5 food at wagon - Total: 145
+2026-01-02 20:14:12 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 5 food at wagon - Total: 150
+2026-01-02 20:14:12 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 5 food at wagon - Total: 155
+2026-01-02 20:14:15 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 5 food - returning to wagon
+2026-01-02 20:14:15 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 5 food at wagon - Total: 160
+2026-01-02 20:14:17 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 5 food - returning to wagon
+2026-01-02 20:14:17 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 5 food - returning to wagon
+2026-01-02 20:14:18 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 5 food at wagon - Total: 165
+2026-01-02 20:14:18 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 5 food at wagon - Total: 170
+2026-01-02 20:14:18 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 5 food - returning to wagon
+2026-01-02 20:14:18 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 5 food - returning to wagon
+2026-01-02 20:14:19 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 5 food at wagon - Total: 175
+2026-01-02 20:14:19 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 5 food at wagon - Total: 180
+2026-01-02 20:14:21 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) harvested 5 food - returning to wagon
+2026-01-02 20:14:21 - MyKingdom - INFO - Citizen 1 (Vale Fairwind) deposited 5 food at wagon - Total: 185
+2026-01-02 20:14:23 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) harvested 5 food - returning to wagon
+2026-01-02 20:14:23 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) harvested 5 food - returning to wagon
+2026-01-02 20:14:23 - MyKingdom - INFO - Citizen 2 (Yara Clearwater) deposited 5 food at wagon - Total: 190
+2026-01-02 20:14:24 - MyKingdom - INFO - Citizen 3 (Lysa Kindler) deposited 5 food at wagon - Total: 195
+2026-01-02 20:14:24 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) harvested 5 food - returning to wagon
+2026-01-02 20:14:24 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) harvested 5 food - returning to wagon
+2026-01-02 20:14:25 - MyKingdom - INFO - Citizen 5 (Cedric Evergreen) deposited 5 food at wagon - Total: 200
+2026-01-02 20:14:25 - MyKingdom - INFO - Citizen 4 (Mira Quickstep) deposited 5 food at wagon - Total: 205
+2026-01-02 20:14:27 - MyKingdom - INFO - Quit event received from game
+2026-01-02 20:14:27 - MyKingdom - INFO - ============================================================
+2026-01-02 20:14:27 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 20:14:27 - MyKingdom - INFO - ============================================================

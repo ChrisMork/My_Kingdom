@@ -1,0 +1,71 @@
+2025-12-31 17:36:34 - MyKingdom - INFO - ============================================================
+2025-12-31 17:36:34 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 17:36:34 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_173634.log
+2025-12-31 17:36:34 - MyKingdom - INFO - ============================================================
+2025-12-31 17:36:34 - MyKingdom - INFO - ============================================================
+2025-12-31 17:36:34 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 17:36:34 - MyKingdom - INFO - ============================================================
+2025-12-31 17:36:35 - MyKingdom - INFO - Pygame initialized
+2025-12-31 17:36:35 - MyKingdom - INFO - Window created: 1280x720
+2025-12-31 17:36:35 - MyKingdom - INFO - Application initialization complete
+2025-12-31 17:36:35 - MyKingdom - INFO - Starting main application loop
+2025-12-31 17:36:35 - MyKingdom - INFO - Entering MENU state
+2025-12-31 17:36:35 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 17:36:35 - MyKingdom - INFO - Main menu initialized
+2025-12-31 17:37:00 - MyKingdom - INFO - Play button clicked - starting game
+2025-12-31 17:37:00 - MyKingdom - INFO - Entering PLAYING state
+2025-12-31 17:37:00 - MyKingdom - INFO - Camera initialized with zoom level: 1.0
+2025-12-31 17:37:00 - MyKingdom - INFO - Initializing game world...
+2025-12-31 17:37:00 - MyKingdom - INFO - World generator initialized with seed: 851352
+2025-12-31 17:37:00 - MyKingdom - INFO - World size: 500x500
+2025-12-31 17:37:00 - MyKingdom - INFO - Starting world generation...
+2025-12-31 17:37:05 - MyKingdom - INFO - Adding decorations to world...
+2025-12-31 17:37:05 - MyKingdom - INFO - Added 33033 decorations to the world
+2025-12-31 17:37:05 - MyKingdom - INFO - World generation completed
+2025-12-31 17:37:05 - MyKingdom - INFO - Terrain distribution:
+2025-12-31 17:37:05 - MyKingdom - INFO -   dirt: 1398 tiles (0.6%)
+2025-12-31 17:37:05 - MyKingdom - INFO -   forest: 34822 tiles (13.9%)
+2025-12-31 17:37:05 - MyKingdom - INFO -   grass: 186746 tiles (74.7%)
+2025-12-31 17:37:05 - MyKingdom - INFO -   sand: 19128 tiles (7.7%)
+2025-12-31 17:37:05 - MyKingdom - INFO -   stone: 1 tiles (0.0%)
+2025-12-31 17:37:05 - MyKingdom - INFO -   water: 7905 tiles (3.2%)
+2025-12-31 17:37:05 - MyKingdom - INFO - Advanced tile renderer initialized with terrain blending
+2025-12-31 17:37:06 - MyKingdom - INFO - Loaded AI sprite: house_ai with transparent background
+2025-12-31 17:37:06 - MyKingdom - INFO - Building renderer initialized - using procedural generation
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (241, 10)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed well at (160, 237)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (88, 262)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (200, 294)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (251, 471)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (442, 207)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (7, 62)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (114, 303)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (432, 335)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (417, 425)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (258, 328)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (280, 104)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed well at (404, 301)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (478, 61)
+2025-12-31 17:37:06 - MyKingdom - INFO - Placed house_small at (408, 391)
+2025-12-31 17:37:06 - MyKingdom - INFO - Generated village with 15 buildings (attempted 15 placements)
+2025-12-31 17:37:06 - MyKingdom - INFO - Building system initialized
+2025-12-31 17:37:06 - MyKingdom - INFO - Game state initialized and ready to play
+2025-12-31 17:37:21 - MyKingdom - INFO - Building mode toggled: ON
+2025-12-31 17:37:23 - MyKingdom - INFO - Selected: Procedural House
+2025-12-31 17:37:24 - MyKingdom - INFO - Placed house_small at (31, 6)
+2025-12-31 17:37:24 - MyKingdom - INFO - Placed house_small at (31, 6)
+2025-12-31 17:37:28 - MyKingdom - INFO - Selected: AI House
+2025-12-31 17:37:30 - MyKingdom - INFO - Placed house_ai at (32, 9)
+2025-12-31 17:37:30 - MyKingdom - INFO - Placed house_ai at (32, 9)
+2025-12-31 17:37:31 - MyKingdom - INFO - Placed house_ai at (34, 7)
+2025-12-31 17:37:31 - MyKingdom - INFO - Placed house_ai at (34, 7)
+2025-12-31 17:37:33 - MyKingdom - INFO - Selected: Well
+2025-12-31 17:37:34 - MyKingdom - INFO - Placed well at (34, 6)
+2025-12-31 17:37:34 - MyKingdom - INFO - Placed well at (34, 6)
+2025-12-31 17:37:35 - MyKingdom - INFO - Placed well at (35, 6)
+2025-12-31 17:37:35 - MyKingdom - INFO - Placed well at (35, 6)
+2025-12-31 17:37:41 - MyKingdom - DEBUG - Zoom changed: 1.00 -> 1.10
+2025-12-31 17:37:56 - MyKingdom - INFO - Quit event received from game
+2025-12-31 17:37:56 - MyKingdom - INFO - ============================================================
+2025-12-31 17:37:56 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2025-12-31 17:37:56 - MyKingdom - INFO - ============================================================

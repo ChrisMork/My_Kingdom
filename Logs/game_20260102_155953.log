@@ -1,0 +1,124 @@
+2026-01-02 15:59:53 - MyKingdom - INFO - ============================================================
+2026-01-02 15:59:53 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 15:59:53 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_155953.log
+2026-01-02 15:59:53 - MyKingdom - INFO - ============================================================
+2026-01-02 15:59:53 - MyKingdom - INFO - ============================================================
+2026-01-02 15:59:53 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 15:59:53 - MyKingdom - INFO - ============================================================
+2026-01-02 15:59:53 - MyKingdom - INFO - Pygame initialized
+2026-01-02 15:59:53 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 15:59:53 - MyKingdom - INFO - Application initialization complete
+2026-01-02 15:59:53 - MyKingdom - INFO - Starting main application loop
+2026-01-02 15:59:53 - MyKingdom - INFO - Entering MENU state
+2026-01-02 15:59:53 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 15:59:53 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.41
+2026-01-02 15:59:53 - MyKingdom - INFO - Music manager initialized
+2026-01-02 15:59:53 - MyKingdom - INFO - Playing music: menu
+2026-01-02 15:59:53 - MyKingdom - INFO - Main menu initialized
+2026-01-02 16:00:04 - MyKingdom - INFO - Load Game button clicked
+2026-01-02 16:00:04 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 16:00:05 - MyKingdom - INFO - Found 14 save files
+2026-01-02 16:00:09 - MyKingdom - INFO - Loading game: autosave_20260102_152252
+2026-01-02 16:00:09 - MyKingdom - INFO - Loading game: autosave_20260102_152252
+2026-01-02 16:00:09 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 16:00:09 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 16:00:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 16:00:09 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 16:00:09 - MyKingdom - INFO - Game state initialized
+2026-01-02 16:00:09 - MyKingdom - INFO - Loaded compressed save: saves\autosave_20260102_152252.sav.gz
+2026-01-02 16:00:09 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 16:00:09 - MyKingdom - INFO - Restored world map: 150x150
+2026-01-02 16:00:09 - MyKingdom - INFO - Restored region map: 80x80
+2026-01-02 16:00:09 - MyKingdom - INFO - World state deserialized: 5 citizens, 1 buildings
+2026-01-02 16:00:09 - MyKingdom - INFO - Game loaded: autosave_20260102_152252
+2026-01-02 16:00:09 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 16:00:10 - MyKingdom - INFO - Playing music: gameplay
+2026-01-02 16:00:21 - MyKingdom - INFO - Escape pressed - showing pause menu
+2026-01-02 16:00:21 - MyKingdom - INFO - Pause menu initialized
+2026-01-02 16:00:23 - MyKingdom - INFO - Settings button clicked
+2026-01-02 16:00:23 - MyKingdom - INFO - Settings menu initialized
+2026-01-02 16:00:24 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:24 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 16:00:25 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:25 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.40
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.40
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.39
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.39
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.42
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-02 16:00:26 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:26 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.46
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.47
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.49
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.50
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.52
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.52
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.53
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.53
+2026-01-02 16:00:27 - MyKingdom - INFO - Music settings saved
+2026-01-02 16:00:27 - MyKingdom - INFO - Music volume set to 0.53
+2026-01-02 16:00:28 - MyKingdom - INFO - Settings menu closed
+2026-01-02 16:00:31 - MyKingdom - INFO - Resume button clicked
+2026-01-02 16:00:31 - MyKingdom - INFO - Resuming game
+2026-01-02 16:00:38 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 16:00:42 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 16:00:43 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 16:00:45 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 16:00:46 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 16:00:49 - MyKingdom - INFO - Snapped camera to home in local view
+2026-01-02 16:01:11 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 16:01:12 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 16:01:12 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 16:01:14 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 16:01:15 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 16:01:17 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 16:01:17 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 16:01:18 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 16:01:24 - MyKingdom - INFO - Quit event received from game
+2026-01-02 16:01:24 - MyKingdom - INFO - ============================================================
+2026-01-02 16:01:24 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 16:01:24 - MyKingdom - INFO - ============================================================

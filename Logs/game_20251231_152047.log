@@ -1,0 +1,72 @@
+2025-12-31 15:20:47 - MyKingdom - INFO - ============================================================
+2025-12-31 15:20:47 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 15:20:47 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_152047.log
+2025-12-31 15:20:47 - MyKingdom - INFO - ============================================================
+2025-12-31 15:20:48 - MyKingdom - INFO - Settings loaded successfully
+2025-12-31 15:20:48 - MyKingdom - INFO - ============================================================
+2025-12-31 15:20:48 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 15:20:48 - MyKingdom - INFO - ============================================================
+2025-12-31 15:20:48 - MyKingdom - INFO - Pygame initialized
+2025-12-31 15:20:48 - MyKingdom - INFO - Window created: 1280x720, fullscreen=False, vsync=True
+2025-12-31 15:20:48 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:20:48 - MyKingdom - INFO - Application initialization complete
+2025-12-31 15:20:48 - MyKingdom - INFO - Starting main application loop
+2025-12-31 15:20:48 - MyKingdom - INFO - Entering MENU state
+2025-12-31 15:20:48 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 15:20:48 - MyKingdom - INFO - Main menu initialized
+2025-12-31 15:20:50 - MyKingdom - INFO - Settings button clicked
+2025-12-31 15:20:50 - MyKingdom - INFO - Entering SETTINGS state
+2025-12-31 15:20:50 - MyKingdom - INFO - Settings menu initialized
+2025-12-31 15:20:59 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:20:59 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:20:59 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:01 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:01 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:04 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:04 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:21:04 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:06 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:06 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:09 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:09 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:21:09 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:11 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:11 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:20 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:20 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:21:20 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:22 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:22 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:22 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:22 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:21:22 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:24 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:24 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:24 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:24 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:21:24 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:26 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:26 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:26 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:26 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:21:26 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:28 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:28 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:28 - MyKingdom - INFO - gameplay settings reset to defaults
+2025-12-31 15:21:28 - MyKingdom - INFO - Gameplay settings reset
+2025-12-31 15:21:28 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:28 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:28 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:28 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:33 - MyKingdom - INFO - Settings saved successfully
+2025-12-31 15:21:33 - MyKingdom - INFO - Resolution change detected - restart required
+2025-12-31 15:21:33 - MyKingdom - INFO - Audio settings: master=1.0, music=0.8, sfx=0.9
+2025-12-31 15:21:35 - MyKingdom - INFO - Settings applied successfully
+2025-12-31 15:21:35 - MyKingdom - INFO - Settings saved and applied from menu
+2025-12-31 15:21:35 - MyKingdom - INFO - Entering MENU state
+2025-12-31 15:21:35 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 15:21:35 - MyKingdom - INFO - Main menu initialized
+2025-12-31 15:21:36 - MyKingdom - INFO - Quit button clicked
+2025-12-31 15:21:36 - MyKingdom - INFO - ============================================================
+2025-12-31 15:21:36 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2025-12-31 15:21:36 - MyKingdom - INFO - ============================================================

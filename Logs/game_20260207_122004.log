@@ -1,0 +1,21 @@
+2026-02-07 12:20:04 - MyKingdom - INFO - ============================================================
+2026-02-07 12:20:04 - MyKingdom - INFO - Game Logger Initialized
+2026-02-07 12:20:04 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260207_122004.log
+2026-02-07 12:20:04 - MyKingdom - INFO - ============================================================
+2026-02-07 12:20:04 - MyKingdom - INFO - ============================================================
+2026-02-07 12:20:04 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-02-07 12:20:04 - MyKingdom - INFO - ============================================================
+2026-02-07 12:20:05 - MyKingdom - INFO - Pygame initialized
+2026-02-07 12:20:05 - MyKingdom - INFO - Window created: 1280x720
+2026-02-07 12:20:05 - MyKingdom - INFO - Application initialization complete
+2026-02-07 12:20:05 - MyKingdom - INFO - Starting main application loop
+2026-02-07 12:20:05 - MyKingdom - INFO - Entering MENU state
+2026-02-07 12:20:05 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-02-07 12:20:05 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.30
+2026-02-07 12:20:05 - MyKingdom - INFO - Music manager initialized
+2026-02-07 12:20:05 - MyKingdom - INFO - Playing music: menu
+2026-02-07 12:20:05 - MyKingdom - INFO - Main menu initialized
+2026-02-07 12:20:08 - MyKingdom - INFO - Quit event received from menu
+2026-02-07 12:20:08 - MyKingdom - INFO - ============================================================
+2026-02-07 12:20:08 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-02-07 12:20:08 - MyKingdom - INFO - ============================================================

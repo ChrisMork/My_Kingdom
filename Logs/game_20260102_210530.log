@@ -1,0 +1,292 @@
+2026-01-02 21:05:30 - MyKingdom - INFO - ============================================================
+2026-01-02 21:05:30 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 21:05:30 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_210530.log
+2026-01-02 21:05:30 - MyKingdom - INFO - ============================================================
+2026-01-02 21:05:30 - MyKingdom - INFO - ============================================================
+2026-01-02 21:05:30 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 21:05:30 - MyKingdom - INFO - ============================================================
+2026-01-02 21:05:31 - MyKingdom - INFO - Pygame initialized
+2026-01-02 21:05:31 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 21:05:31 - MyKingdom - INFO - Application initialization complete
+2026-01-02 21:05:31 - MyKingdom - INFO - Starting main application loop
+2026-01-02 21:05:31 - MyKingdom - INFO - Entering MENU state
+2026-01-02 21:05:31 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 21:05:31 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.13
+2026-01-02 21:05:31 - MyKingdom - INFO - Music manager initialized
+2026-01-02 21:05:31 - MyKingdom - INFO - Playing music: menu
+2026-01-02 21:05:31 - MyKingdom - INFO - Main menu initialized
+2026-01-02 21:05:33 - MyKingdom - INFO - New Game button clicked
+2026-01-02 21:05:37 - MyKingdom - INFO - Starting new game: testng 123
+2026-01-02 21:05:37 - MyKingdom - INFO - Starting new game: testng 123
+2026-01-02 21:05:37 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 21:05:37 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 21:05:37 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:37 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 21:05:37 - MyKingdom - INFO - Game state initialized
+2026-01-02 21:05:37 - MyKingdom - INFO - Tiered World Generator initialized with seed: 627812
+2026-01-02 21:05:37 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 21:05:38 - MyKingdom - INFO - World generation complete!
+2026-01-02 21:05:38 - MyKingdom - INFO - Biome distribution:
+2026-01-02 21:05:38 - MyKingdom - INFO -   tundra: 11822 tiles (52.5%)
+2026-01-02 21:05:38 - MyKingdom - INFO -   boreal_forest: 6474 tiles (28.8%)
+2026-01-02 21:05:38 - MyKingdom - INFO -   temperate_forest: 3595 tiles (16.0%)
+2026-01-02 21:05:38 - MyKingdom - INFO -   grassland: 607 tiles (2.7%)
+2026-01-02 21:05:38 - MyKingdom - INFO -   wetland: 2 tiles (0.0%)
+2026-01-02 21:05:38 - MyKingdom - INFO - Multi-stage world selection screen initialized
+2026-01-02 21:05:41 - MyKingdom - INFO - Generating region preview for world tile grassland...
+2026-01-02 21:05:41 - MyKingdom - INFO - Generating region from world tile (75, 77)...
+2026-01-02 21:05:41 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.58
+2026-01-02 21:05:41 - MyKingdom - INFO - Advanced to REGION view for world tile (75, 77)
+2026-01-02 21:05:42 - MyKingdom - INFO - Generating local preview from region tile (40, 40)...
+2026-01-02 21:05:42 - MyKingdom - INFO - Generating local map from region chunk (40, 40)...
+2026-01-02 21:05:42 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.59
+2026-01-02 21:05:42 - MyKingdom - INFO - Placed resource nodes on local map
+2026-01-02 21:05:42 - MyKingdom - INFO - Local map generated successfully
+2026-01-02 21:05:42 - MyKingdom - INFO - Advanced to LOCAL view
+2026-01-02 21:05:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:42 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:43 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:44 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:45 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:46 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:47 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:47 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:47 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:47 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:47 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - Location confirmed!
+2026-01-02 21:05:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 21:05:47 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - === STARTING NEW GAME: testng 123 ===
+2026-01-02 21:05:47 - MyKingdom - INFO - Using pre-generated world and tiles from selection screen
+2026-01-02 21:05:47 - MyKingdom - INFO - Using player-selected location: (75, 77)
+2026-01-02 21:05:47 - MyKingdom - INFO - Using pre-generated region tiles from preview
+2026-01-02 21:05:47 - MyKingdom - INFO - Using selected region coordinates: (40, 40)
+2026-01-02 21:05:47 - MyKingdom - INFO - Using pre-generated local tiles from preview - terrain will match preview!
+2026-01-02 21:05:47 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-02 21:05:47 - MyKingdom - INFO - Creating starting citizens...
+2026-01-02 21:05:47 - MyKingdom - INFO - Created citizen: Vale Fairwind (ID: 1)
+2026-01-02 21:05:47 - MyKingdom - INFO - Created citizen: Yara Clearwater (ID: 2)
+2026-01-02 21:05:47 - MyKingdom - INFO - Created citizen: Lysa Kindler (ID: 3)
+2026-01-02 21:05:47 - MyKingdom - INFO - Created citizen: Mira Quickstep (ID: 4)
+2026-01-02 21:05:47 - MyKingdom - INFO - Created citizen: Cedric Evergreen (ID: 5)
+2026-01-02 21:05:47 - MyKingdom - INFO - Collecting resource nodes from world...
+2026-01-02 21:05:47 - MyKingdom - INFO - Collected 905 resource nodes from world
+2026-01-02 21:05:47 - MyKingdom - INFO - Spawning wagon stockpile...
+2026-01-02 21:05:47 - MyKingdom - INFO - Spawned wagon stockpile at (50, 50)
+2026-01-02 21:05:48 - MyKingdom - INFO - Game saved successfully: saves\testng 123.sav.gz
+2026-01-02 21:05:48 - MyKingdom - INFO - Game saved: testng 123
+2026-01-02 21:05:48 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-02 21:05:48 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 21:05:49 - MyKingdom - INFO - Playing music: gameplay
+2026-01-02 21:06:09 - MyKingdom - INFO - Quit event received from game
+2026-01-02 21:06:09 - MyKingdom - INFO - ============================================================
+2026-01-02 21:06:09 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 21:06:09 - MyKingdom - INFO - ============================================================

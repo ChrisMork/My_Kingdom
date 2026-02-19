@@ -1,0 +1,208 @@
+2026-01-02 15:50:04 - MyKingdom - INFO - ============================================================
+2026-01-02 15:50:04 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 15:50:04 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_155004.log
+2026-01-02 15:50:04 - MyKingdom - INFO - ============================================================
+2026-01-02 15:50:04 - MyKingdom - INFO - ============================================================
+2026-01-02 15:50:04 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 15:50:04 - MyKingdom - INFO - ============================================================
+2026-01-02 15:50:04 - MyKingdom - INFO - Pygame initialized
+2026-01-02 15:50:04 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 15:50:04 - MyKingdom - INFO - Application initialization complete
+2026-01-02 15:50:04 - MyKingdom - INFO - Starting main application loop
+2026-01-02 15:50:04 - MyKingdom - INFO - Entering MENU state
+2026-01-02 15:50:04 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 15:50:04 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.22
+2026-01-02 15:50:04 - MyKingdom - INFO - Music manager initialized
+2026-01-02 15:50:04 - MyKingdom - INFO - Playing music: menu
+2026-01-02 15:50:04 - MyKingdom - INFO - Main menu initialized
+2026-01-02 15:50:08 - MyKingdom - INFO - Settings button clicked
+2026-01-02 15:50:08 - MyKingdom - INFO - Settings menu initialized
+2026-01-02 15:50:09 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:09 - MyKingdom - INFO - Music volume set to 0.22
+2026-01-02 15:50:10 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:10 - MyKingdom - INFO - Music volume set to 0.22
+2026-01-02 15:50:11 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:11 - MyKingdom - INFO - Music volume set to 0.22
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.20
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.20
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.20
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.20
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.19
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.19
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.19
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.18
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.18
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.18
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.18
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-02 15:50:12 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:12 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-02 15:50:13 - MyKingdom - INFO - Settings menu closed
+2026-01-02 15:50:15 - MyKingdom - INFO - Load Game button clicked
+2026-01-02 15:50:15 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 15:50:16 - MyKingdom - INFO - Found 14 save files
+2026-01-02 15:50:19 - MyKingdom - INFO - Loading game: autosave_20260102_152252
+2026-01-02 15:50:19 - MyKingdom - INFO - Loading game: autosave_20260102_152252
+2026-01-02 15:50:19 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 15:50:19 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 15:50:19 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:50:19 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 15:50:19 - MyKingdom - INFO - Game state initialized
+2026-01-02 15:50:19 - MyKingdom - INFO - Loaded compressed save: saves\autosave_20260102_152252.sav.gz
+2026-01-02 15:50:19 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 15:50:19 - MyKingdom - INFO - Restored world map: 150x150
+2026-01-02 15:50:19 - MyKingdom - INFO - Restored region map: 80x80
+2026-01-02 15:50:19 - MyKingdom - INFO - World state deserialized: 5 citizens, 1 buildings
+2026-01-02 15:50:19 - MyKingdom - INFO - Game loaded: autosave_20260102_152252
+2026-01-02 15:50:19 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 15:50:20 - MyKingdom - INFO - Playing music: gameplay
+2026-01-02 15:50:28 - MyKingdom - INFO - Escape pressed - saving and returning to menu
+2026-01-02 15:50:28 - MyKingdom - INFO - Game saved successfully: saves\autosave_20260102_152252.sav.gz
+2026-01-02 15:50:28 - MyKingdom - INFO - Game saved: autosave_20260102_152252
+2026-01-02 15:50:29 - MyKingdom - INFO - Playing music: menu
+2026-01-02 15:50:30 - MyKingdom - INFO - Entering MENU state
+2026-01-02 15:50:30 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 15:50:31 - MyKingdom - INFO - Playing music: menu
+2026-01-02 15:50:31 - MyKingdom - INFO - Main menu initialized
+2026-01-02 15:50:31 - MyKingdom - INFO - New Game button clicked
+2026-01-02 15:50:33 - MyKingdom - INFO - Settings button clicked
+2026-01-02 15:50:33 - MyKingdom - INFO - Settings menu initialized
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.17
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.18
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.19
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.20
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.21
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.22
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.23
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.25
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.26
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.28
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.28
+2026-01-02 15:50:36 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:36 - MyKingdom - INFO - Music volume set to 0.28
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.29
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.29
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.29
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.30
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.30
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.30
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.31
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.32
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.32
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.33
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.33
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.34
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.34
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.34
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.34
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.35
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.35
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.35
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.36
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.36
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.36
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.36
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.37
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.38
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.38
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.38
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.39
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.39
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.39
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.40
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.40
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 15:50:37 - MyKingdom - INFO - Music settings saved
+2026-01-02 15:50:37 - MyKingdom - INFO - Music volume set to 0.41
+2026-01-02 15:50:38 - MyKingdom - INFO - Settings menu closed
+2026-01-02 15:50:41 - MyKingdom - INFO - Load Game button clicked
+2026-01-02 15:50:41 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 15:50:42 - MyKingdom - INFO - Found 14 save files
+2026-01-02 15:50:43 - MyKingdom - INFO - Loading game: autosave_20260102_152252
+2026-01-02 15:50:43 - MyKingdom - INFO - Loading game: autosave_20260102_152252
+2026-01-02 15:50:43 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 15:50:43 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 15:50:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:50:43 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 15:50:43 - MyKingdom - INFO - Game state initialized
+2026-01-02 15:50:43 - MyKingdom - INFO - Loaded compressed save: saves\autosave_20260102_152252.sav.gz
+2026-01-02 15:50:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 15:50:43 - MyKingdom - INFO - Restored world map: 150x150
+2026-01-02 15:50:43 - MyKingdom - INFO - Restored region map: 80x80
+2026-01-02 15:50:43 - MyKingdom - INFO - World state deserialized: 5 citizens, 1 buildings
+2026-01-02 15:50:43 - MyKingdom - INFO - Game loaded: autosave_20260102_152252
+2026-01-02 15:50:43 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 15:50:44 - MyKingdom - INFO - Playing music: gameplay
+2026-01-02 15:51:39 - MyKingdom - INFO - Quit event received from game
+2026-01-02 15:51:39 - MyKingdom - INFO - ============================================================
+2026-01-02 15:51:39 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 15:51:39 - MyKingdom - INFO - ============================================================

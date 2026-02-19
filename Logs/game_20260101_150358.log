@@ -1,0 +1,200 @@
+2026-01-01 15:03:58 - MyKingdom - INFO - ============================================================
+2026-01-01 15:03:58 - MyKingdom - INFO - Game Logger Initialized
+2026-01-01 15:03:58 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260101_150358.log
+2026-01-01 15:03:58 - MyKingdom - INFO - ============================================================
+2026-01-01 15:03:58 - MyKingdom - INFO - Tiered World Generator initialized with seed: 12345
+2026-01-01 15:03:58 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-01 15:03:58 - MyKingdom - INFO - World Generation Demo initialized
+2026-01-01 15:03:58 - MyKingdom - INFO - === GENERATING WORLD MAP ===
+2026-01-01 15:03:58 - MyKingdom - INFO - Generating world map: 100x100...
+2026-01-01 15:03:59 - MyKingdom - INFO - World generation complete!
+2026-01-01 15:03:59 - MyKingdom - INFO - Biome distribution:
+2026-01-01 15:03:59 - MyKingdom - INFO -   tundra: 4058 tiles (40.6%)
+2026-01-01 15:03:59 - MyKingdom - INFO -   temperate_forest: 3215 tiles (32.1%)
+2026-01-01 15:03:59 - MyKingdom - INFO -   boreal_forest: 1847 tiles (18.5%)
+2026-01-01 15:03:59 - MyKingdom - INFO -   grassland: 735 tiles (7.3%)
+2026-01-01 15:03:59 - MyKingdom - INFO -   arid_shrubland: 132 tiles (1.3%)
+2026-01-01 15:03:59 - MyKingdom - INFO -   tropical_rainforest: 13 tiles (0.1%)
+2026-01-01 15:03:59 - MyKingdom - INFO - World map generation complete!
+2026-01-01 15:04:08 - MyKingdom - INFO - === GENERATING WORLD MAP ===
+2026-01-01 15:04:08 - MyKingdom - INFO - Generating world map: 100x100...
+2026-01-01 15:04:08 - MyKingdom - INFO - World generation complete!
+2026-01-01 15:04:08 - MyKingdom - INFO - Biome distribution:
+2026-01-01 15:04:08 - MyKingdom - INFO -   tundra: 4058 tiles (40.6%)
+2026-01-01 15:04:08 - MyKingdom - INFO -   temperate_forest: 3215 tiles (32.1%)
+2026-01-01 15:04:08 - MyKingdom - INFO -   boreal_forest: 1847 tiles (18.5%)
+2026-01-01 15:04:08 - MyKingdom - INFO -   grassland: 735 tiles (7.3%)
+2026-01-01 15:04:08 - MyKingdom - INFO -   arid_shrubland: 132 tiles (1.3%)
+2026-01-01 15:04:08 - MyKingdom - INFO -   tropical_rainforest: 13 tiles (0.1%)
+2026-01-01 15:04:08 - MyKingdom - INFO - World map generation complete!
+2026-01-01 15:04:09 - MyKingdom - INFO - === GENERATING WORLD MAP ===
+2026-01-01 15:04:09 - MyKingdom - INFO - Generating world map: 100x100...
+2026-01-01 15:04:09 - MyKingdom - INFO - World generation complete!
+2026-01-01 15:04:09 - MyKingdom - INFO - Biome distribution:
+2026-01-01 15:04:09 - MyKingdom - INFO -   tundra: 4058 tiles (40.6%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   temperate_forest: 3215 tiles (32.1%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   boreal_forest: 1847 tiles (18.5%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   grassland: 735 tiles (7.3%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   arid_shrubland: 132 tiles (1.3%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   tropical_rainforest: 13 tiles (0.1%)
+2026-01-01 15:04:09 - MyKingdom - INFO - World map generation complete!
+2026-01-01 15:04:09 - MyKingdom - INFO - === GENERATING WORLD MAP ===
+2026-01-01 15:04:09 - MyKingdom - INFO - Generating world map: 100x100...
+2026-01-01 15:04:09 - MyKingdom - INFO - World generation complete!
+2026-01-01 15:04:09 - MyKingdom - INFO - Biome distribution:
+2026-01-01 15:04:09 - MyKingdom - INFO -   tundra: 4058 tiles (40.6%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   temperate_forest: 3215 tiles (32.1%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   boreal_forest: 1847 tiles (18.5%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   grassland: 735 tiles (7.3%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   arid_shrubland: 132 tiles (1.3%)
+2026-01-01 15:04:09 - MyKingdom - INFO -   tropical_rainforest: 13 tiles (0.1%)
+2026-01-01 15:04:09 - MyKingdom - INFO - World map generation complete!
+2026-01-01 15:04:11 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:11 - MyKingdom - INFO - Generating region from world tile (21, 13)...
+2026-01-01 15:04:11 - MyKingdom - INFO -   Biome: boreal_forest, Elevation: 0.29
+2026-01-01 15:04:11 - MyKingdom - INFO - Renderer biome set to: boreal_forest
+2026-01-01 15:04:11 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:17 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:17 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:17 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:17 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:17 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:17 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:17 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:17 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:17 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:17 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:17 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:17 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:24 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:24 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:24 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:24 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:24 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:24 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:24 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:24 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:24 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:24 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:24 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:24 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:25 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:25 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:25 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:25 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:25 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:25 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:25 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:25 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:25 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:25 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:25 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:25 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:25 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:25 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:25 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:25 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:25 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:25 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:25 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:25 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:25 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:25 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:25 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:25 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:26 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:26 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:26 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:26 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:26 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:26 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:26 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:26 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:26 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:26 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:26 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:26 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:26 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:26 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:26 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:26 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:26 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:26 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:26 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:26 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:26 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:26 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:26 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:26 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:27 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:27 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:27 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:27 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:27 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:27 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:27 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:27 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:27 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:27 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:27 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:27 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:28 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:28 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:28 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:28 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:28 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:28 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:28 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:28 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:28 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:28 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:28 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:28 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:28 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:28 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:28 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:28 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:28 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:28 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:28 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:28 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:28 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:28 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:28 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:28 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:29 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:29 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:29 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:29 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:29 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:29 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:29 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:29 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:29 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:29 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:29 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:29 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:29 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:29 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:29 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:29 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:29 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:29 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:29 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:29 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:29 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:29 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:29 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:29 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===
+2026-01-01 15:04:31 - MyKingdom - INFO - === AUTO-GENERATING TO LOCAL LEVEL ===
+2026-01-01 15:04:31 - MyKingdom - INFO - === GENERATING REGION MAP ===
+2026-01-01 15:04:31 - MyKingdom - INFO - Generating region from world tile (50, 50)...
+2026-01-01 15:04:31 - MyKingdom - INFO -   Biome: grassland, Elevation: 0.33
+2026-01-01 15:04:31 - MyKingdom - INFO - Renderer biome set to: grassland
+2026-01-01 15:04:31 - MyKingdom - INFO - Region map generation complete!
+2026-01-01 15:04:31 - MyKingdom - INFO - === GENERATING LOCAL MAP ===
+2026-01-01 15:04:31 - MyKingdom - INFO - Generating local map from region chunk (25, 25)...
+2026-01-01 15:04:31 - MyKingdom - INFO -   Chunk analysis: Biome=grassland, Avg Elev=0.43
+2026-01-01 15:04:31 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:04:31 - MyKingdom - INFO - Local map generation complete!
+2026-01-01 15:04:31 - MyKingdom - INFO - === AUTO-GENERATION COMPLETE ===

@@ -1,0 +1,81 @@
+2026-01-02 14:20:32 - MyKingdom - INFO - ============================================================
+2026-01-02 14:20:32 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 14:20:32 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_142032.log
+2026-01-02 14:20:32 - MyKingdom - INFO - ============================================================
+2026-01-02 14:20:33 - MyKingdom - INFO - ============================================================
+2026-01-02 14:20:33 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 14:20:33 - MyKingdom - INFO - ============================================================
+2026-01-02 14:20:33 - MyKingdom - INFO - Pygame initialized
+2026-01-02 14:20:33 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 14:20:33 - MyKingdom - INFO - Application initialization complete
+2026-01-02 14:20:33 - MyKingdom - INFO - Starting main application loop
+2026-01-02 14:20:33 - MyKingdom - INFO - Entering MENU state
+2026-01-02 14:20:33 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 14:20:33 - MyKingdom - INFO - Main menu initialized
+2026-01-02 14:20:36 - MyKingdom - INFO - Load Game button clicked
+2026-01-02 14:20:36 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 14:20:36 - MyKingdom - INFO - Found 8 save files
+2026-01-02 14:20:41 - MyKingdom - INFO - New Game button clicked
+2026-01-02 14:20:44 - MyKingdom - INFO - Starting new game: jiij
+2026-01-02 14:20:44 - MyKingdom - INFO - Starting new game: jiij
+2026-01-02 14:20:44 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 14:20:44 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 14:20:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 14:20:44 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 14:20:44 - MyKingdom - INFO - Game state initialized
+2026-01-02 14:20:44 - MyKingdom - INFO - === STARTING NEW GAME: jiij ===
+2026-01-02 14:20:44 - MyKingdom - INFO - Tiered World Generator initialized with seed: 853135
+2026-01-02 14:20:44 - MyKingdom - INFO - Generating large world map...
+2026-01-02 14:20:44 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 14:20:45 - MyKingdom - INFO - World generation complete!
+2026-01-02 14:20:45 - MyKingdom - INFO - Biome distribution:
+2026-01-02 14:20:45 - MyKingdom - INFO -   tundra: 11153 tiles (49.6%)
+2026-01-02 14:20:45 - MyKingdom - INFO -   boreal_forest: 6762 tiles (30.1%)
+2026-01-02 14:20:45 - MyKingdom - INFO -   temperate_forest: 4051 tiles (18.0%)
+2026-01-02 14:20:45 - MyKingdom - INFO -   grassland: 486 tiles (2.2%)
+2026-01-02 14:20:45 - MyKingdom - INFO -   wetland: 48 tiles (0.2%)
+2026-01-02 14:20:45 - MyKingdom - INFO - Selecting starting location...
+2026-01-02 14:20:45 - MyKingdom - INFO - Generating starting region (biome: temperate_forest)...
+2026-01-02 14:20:45 - MyKingdom - INFO - Generating region from world tile (134, 67)...
+2026-01-02 14:20:45 - MyKingdom - INFO -   Biome: temperate_forest, Elevation: 0.54
+2026-01-02 14:20:45 - MyKingdom - INFO - Generating local playable map...
+2026-01-02 14:20:45 - MyKingdom - INFO - Generating local map from region chunk (40, 40)...
+2026-01-02 14:20:45 - MyKingdom - INFO -   Chunk analysis: Biome=temperate_forest, Avg Elev=0.42
+2026-01-02 14:20:45 - MyKingdom - INFO - Local map generated successfully
+2026-01-02 14:20:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 14:20:45 - MyKingdom - INFO - Creating starting citizens...
+2026-01-02 14:20:45 - MyKingdom - INFO - Created citizen: Isla Nightshade (ID: 1)
+2026-01-02 14:20:45 - MyKingdom - INFO - Created citizen: Hilda Nightshade (ID: 2)
+2026-01-02 14:20:45 - MyKingdom - INFO - Created citizen: Kael Nightshade (ID: 3)
+2026-01-02 14:20:45 - MyKingdom - INFO - Created citizen: Vale Jadebrook (ID: 4)
+2026-01-02 14:20:45 - MyKingdom - INFO - Created citizen: Lysa Quickstep (ID: 5)
+2026-01-02 14:20:46 - MyKingdom - INFO - Game saved successfully: saves\jiij.sav.gz
+2026-01-02 14:20:46 - MyKingdom - INFO - Game saved: jiij
+2026-01-02 14:20:46 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-02 14:20:46 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 14:20:54 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:21:01 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:21:07 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 14:21:07 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:21:08 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:21:09 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 14:21:12 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:21:14 - MyKingdom - INFO - Building mode toggled: ON
+2026-01-02 14:21:15 - MyKingdom - INFO - Building mode toggled: OFF
+2026-01-02 14:21:15 - MyKingdom - INFO - Building mode toggled: ON
+2026-01-02 14:21:17 - MyKingdom - INFO - Building mode toggled: OFF
+2026-01-02 14:21:19 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:21:19 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:21:51 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 14:21:53 - MyKingdom - INFO - Building mode toggled: ON
+2026-01-02 14:21:54 - MyKingdom - INFO - Selected: House
+2026-01-02 14:21:55 - MyKingdom - INFO - Placed house at (54, 50), ID: 1
+2026-01-02 14:21:55 - MyKingdom - INFO - Game saved successfully: saves\autosave_20260102_142155.sav.gz
+2026-01-02 14:21:56 - MyKingdom - INFO - Found 10 save files
+2026-01-02 14:21:56 - MyKingdom - INFO - Deleted save: saves\autosave_20260102_133808.sav.gz
+2026-01-02 14:21:56 - MyKingdom - INFO - Cleaned up 1 old auto-saves
+2026-01-02 14:21:56 - MyKingdom - INFO - Placed house at (54, 50)
+2026-01-02 14:22:08 - MyKingdom - INFO - Quit event received from game
+2026-01-02 14:22:08 - MyKingdom - INFO - ============================================================
+2026-01-02 14:22:08 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 14:22:08 - MyKingdom - INFO - ============================================================

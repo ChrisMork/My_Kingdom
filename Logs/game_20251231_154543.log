@@ -1,0 +1,79 @@
+2025-12-31 15:45:43 - MyKingdom - INFO - ============================================================
+2025-12-31 15:45:43 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 15:45:43 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_154543.log
+2025-12-31 15:45:43 - MyKingdom - INFO - ============================================================
+2025-12-31 15:45:43 - MyKingdom - INFO - ============================================================
+2025-12-31 15:45:43 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 15:45:43 - MyKingdom - INFO - ============================================================
+2025-12-31 15:45:44 - MyKingdom - INFO - Pygame initialized
+2025-12-31 15:45:44 - MyKingdom - INFO - Window created: 1280x720
+2025-12-31 15:45:44 - MyKingdom - INFO - Application initialization complete
+2025-12-31 15:45:44 - MyKingdom - INFO - Starting main application loop
+2025-12-31 15:45:44 - MyKingdom - INFO - Entering MENU state
+2025-12-31 15:45:44 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2025-12-31 15:45:44 - MyKingdom - INFO - Main menu initialized
+2025-12-31 15:45:52 - MyKingdom - INFO - Play button clicked - starting game
+2025-12-31 15:45:52 - MyKingdom - INFO - Entering PLAYING state
+2025-12-31 15:45:52 - MyKingdom - INFO - Camera initialized with zoom level: 1.0
+2025-12-31 15:45:52 - MyKingdom - INFO - Initializing game world...
+2025-12-31 15:45:52 - MyKingdom - INFO - World generator initialized with seed: 889478
+2025-12-31 15:45:52 - MyKingdom - INFO - World size: 500x500
+2025-12-31 15:45:52 - MyKingdom - INFO - Starting world generation...
+2025-12-31 15:45:56 - MyKingdom - INFO - Adding decorations to world...
+2025-12-31 15:45:56 - MyKingdom - INFO - Added 32816 decorations to the world
+2025-12-31 15:45:56 - MyKingdom - INFO - World generation completed
+2025-12-31 15:45:56 - MyKingdom - INFO - Terrain distribution:
+2025-12-31 15:45:56 - MyKingdom - INFO -   dirt: 1387 tiles (0.6%)
+2025-12-31 15:45:56 - MyKingdom - INFO -   forest: 36004 tiles (14.4%)
+2025-12-31 15:45:56 - MyKingdom - INFO -   grass: 184777 tiles (73.9%)
+2025-12-31 15:45:56 - MyKingdom - INFO -   sand: 19722 tiles (7.9%)
+2025-12-31 15:45:56 - MyKingdom - INFO -   stone: 1 tiles (0.0%)
+2025-12-31 15:45:56 - MyKingdom - INFO -   water: 8109 tiles (3.2%)
+2025-12-31 15:45:56 - MyKingdom - INFO - Advanced tile renderer initialized with terrain blending
+2025-12-31 15:45:56 - MyKingdom - INFO - Game state initialized and ready to play
+2025-12-31 15:45:58 - MyKingdom - DEBUG - Zoom changed: 1.00 -> 1.10
+2025-12-31 15:45:58 - MyKingdom - DEBUG - Zoom changed: 1.10 -> 1.20
+2025-12-31 15:45:58 - MyKingdom - DEBUG - Zoom changed: 1.20 -> 1.30
+2025-12-31 15:45:59 - MyKingdom - DEBUG - Zoom changed: 1.30 -> 1.40
+2025-12-31 15:45:59 - MyKingdom - DEBUG - Zoom changed: 1.40 -> 1.50
+2025-12-31 15:45:59 - MyKingdom - DEBUG - Zoom changed: 1.50 -> 1.60
+2025-12-31 15:45:59 - MyKingdom - DEBUG - Zoom changed: 1.60 -> 1.70
+2025-12-31 15:45:59 - MyKingdom - DEBUG - Zoom changed: 1.70 -> 1.80
+2025-12-31 15:45:59 - MyKingdom - DEBUG - Zoom changed: 1.80 -> 1.90
+2025-12-31 15:45:59 - MyKingdom - DEBUG - Zoom changed: 1.90 -> 2.00
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 2.00 -> 1.90
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 1.90 -> 1.80
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 1.80 -> 1.70
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 1.70 -> 1.60
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 1.60 -> 1.50
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 1.50 -> 1.40
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 1.40 -> 1.30
+2025-12-31 15:46:04 - MyKingdom - DEBUG - Zoom changed: 1.30 -> 1.20
+2025-12-31 15:46:05 - MyKingdom - DEBUG - Zoom changed: 1.20 -> 1.30
+2025-12-31 15:46:05 - MyKingdom - DEBUG - Zoom changed: 1.30 -> 1.40
+2025-12-31 15:46:05 - MyKingdom - DEBUG - Zoom changed: 1.40 -> 1.50
+2025-12-31 15:46:05 - MyKingdom - DEBUG - Zoom changed: 1.50 -> 1.60
+2025-12-31 15:46:06 - MyKingdom - DEBUG - Zoom changed: 1.60 -> 1.70
+2025-12-31 15:46:06 - MyKingdom - DEBUG - Zoom changed: 1.70 -> 1.80
+2025-12-31 15:46:06 - MyKingdom - DEBUG - Zoom changed: 1.80 -> 1.90
+2025-12-31 15:46:06 - MyKingdom - DEBUG - Zoom changed: 1.90 -> 2.00
+2025-12-31 15:46:10 - MyKingdom - DEBUG - Zoom changed: 2.00 -> 1.90
+2025-12-31 15:46:10 - MyKingdom - DEBUG - Zoom changed: 1.90 -> 1.80
+2025-12-31 15:46:10 - MyKingdom - DEBUG - Zoom changed: 1.80 -> 1.70
+2025-12-31 15:46:10 - MyKingdom - DEBUG - Zoom changed: 1.70 -> 1.60
+2025-12-31 15:46:10 - MyKingdom - DEBUG - Zoom changed: 1.60 -> 1.50
+2025-12-31 15:46:11 - MyKingdom - DEBUG - Zoom changed: 1.50 -> 1.40
+2025-12-31 15:46:11 - MyKingdom - DEBUG - Zoom changed: 1.40 -> 1.30
+2025-12-31 15:46:11 - MyKingdom - DEBUG - Zoom changed: 1.30 -> 1.20
+2025-12-31 15:46:11 - MyKingdom - DEBUG - Zoom changed: 1.20 -> 1.10
+2025-12-31 15:46:13 - MyKingdom - DEBUG - Zoom changed: 1.10 -> 1.00
+2025-12-31 15:46:13 - MyKingdom - DEBUG - Zoom changed: 1.00 -> 0.90
+2025-12-31 15:46:13 - MyKingdom - DEBUG - Zoom changed: 0.90 -> 0.80
+2025-12-31 15:46:13 - MyKingdom - DEBUG - Zoom changed: 0.80 -> 0.70
+2025-12-31 15:46:14 - MyKingdom - DEBUG - Zoom changed: 0.70 -> 0.60
+2025-12-31 15:46:14 - MyKingdom - DEBUG - Zoom changed: 0.60 -> 0.50
+2025-12-31 15:46:14 - MyKingdom - DEBUG - Zoom changed: 0.50 -> 0.40
+2025-12-31 15:46:25 - MyKingdom - INFO - Quit event received from game
+2025-12-31 15:46:25 - MyKingdom - INFO - ============================================================
+2025-12-31 15:46:25 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2025-12-31 15:46:25 - MyKingdom - INFO - ============================================================

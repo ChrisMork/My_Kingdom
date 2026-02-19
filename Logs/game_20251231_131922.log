@@ -1,0 +1,28 @@
+2025-12-31 13:19:22 - MyKingdom - INFO - ============================================================
+2025-12-31 13:19:22 - MyKingdom - INFO - Game Logger Initialized
+2025-12-31 13:19:22 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20251231_131922.log
+2025-12-31 13:19:22 - MyKingdom - INFO - ============================================================
+2025-12-31 13:19:22 - MyKingdom - INFO - ============================================================
+2025-12-31 13:19:22 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2025-12-31 13:19:22 - MyKingdom - INFO - ============================================================
+2025-12-31 13:19:22 - MyKingdom - INFO - Pygame initialized
+2025-12-31 13:19:22 - MyKingdom - INFO - Window created: 1280x720
+2025-12-31 13:19:22 - MyKingdom - INFO - Application initialization complete
+2025-12-31 13:19:22 - MyKingdom - INFO - Starting main application loop
+2025-12-31 13:19:22 - MyKingdom - INFO - Entering MENU state
+2025-12-31 13:19:22 - MyKingdom - INFO - Main menu initialized
+2025-12-31 13:19:26 - MyKingdom - INFO - Settings button clicked
+2025-12-31 13:19:27 - MyKingdom - INFO - Play button clicked - starting game
+2025-12-31 13:19:27 - MyKingdom - INFO - Entering PLAYING state
+2025-12-31 13:19:27 - MyKingdom - INFO - Initializing game world...
+2025-12-31 13:19:27 - MyKingdom - INFO - World generator initialized with seed: 503501
+2025-12-31 13:19:27 - MyKingdom - INFO - World size: 100x100
+2025-12-31 13:19:27 - MyKingdom - INFO - Starting world generation...
+2025-12-31 13:19:27 - MyKingdom - INFO - World generation completed
+2025-12-31 13:19:27 - MyKingdom - INFO - Terrain distribution:
+2025-12-31 13:19:27 - MyKingdom - INFO -   dirt: 76 tiles (0.8%)
+2025-12-31 13:19:27 - MyKingdom - INFO -   forest: 2417 tiles (24.2%)
+2025-12-31 13:19:27 - MyKingdom - INFO -   grass: 6620 tiles (66.2%)
+2025-12-31 13:19:27 - MyKingdom - INFO -   sand: 701 tiles (7.0%)
+2025-12-31 13:19:27 - MyKingdom - INFO -   water: 186 tiles (1.9%)
+2025-12-31 13:19:27 - MyKingdom - INFO - Game state initialized and ready to play

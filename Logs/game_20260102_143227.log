@@ -1,0 +1,106 @@
+2026-01-02 14:32:27 - MyKingdom - INFO - ============================================================
+2026-01-02 14:32:27 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 14:32:27 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_143227.log
+2026-01-02 14:32:27 - MyKingdom - INFO - ============================================================
+2026-01-02 14:32:28 - MyKingdom - INFO - ============================================================
+2026-01-02 14:32:28 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 14:32:28 - MyKingdom - INFO - ============================================================
+2026-01-02 14:32:28 - MyKingdom - INFO - Pygame initialized
+2026-01-02 14:32:28 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 14:32:28 - MyKingdom - INFO - Application initialization complete
+2026-01-02 14:32:28 - MyKingdom - INFO - Starting main application loop
+2026-01-02 14:32:28 - MyKingdom - INFO - Entering MENU state
+2026-01-02 14:32:28 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 14:32:28 - MyKingdom - INFO - Main menu initialized
+2026-01-02 14:32:31 - MyKingdom - INFO - New Game button clicked
+2026-01-02 14:32:34 - MyKingdom - INFO - Starting new game: lol
+2026-01-02 14:32:34 - MyKingdom - INFO - Starting new game: lol
+2026-01-02 14:32:34 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 14:32:34 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 14:32:34 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 14:32:34 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 14:32:34 - MyKingdom - INFO - Game state initialized
+2026-01-02 14:32:34 - MyKingdom - INFO - Tiered World Generator initialized with seed: 740639
+2026-01-02 14:32:34 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 14:32:35 - MyKingdom - INFO - World generation complete!
+2026-01-02 14:32:35 - MyKingdom - INFO - Biome distribution:
+2026-01-02 14:32:35 - MyKingdom - INFO -   tundra: 11376 tiles (50.6%)
+2026-01-02 14:32:35 - MyKingdom - INFO -   boreal_forest: 6405 tiles (28.5%)
+2026-01-02 14:32:35 - MyKingdom - INFO -   temperate_forest: 4602 tiles (20.5%)
+2026-01-02 14:32:35 - MyKingdom - INFO -   grassland: 80 tiles (0.4%)
+2026-01-02 14:32:35 - MyKingdom - INFO -   wetland: 37 tiles (0.2%)
+2026-01-02 14:32:35 - MyKingdom - INFO - World selection screen initialized
+2026-01-02 14:33:11 - MyKingdom - INFO - Selected world tile: (55, 104)
+2026-01-02 14:33:11 - MyKingdom - INFO - === STARTING NEW GAME: lol ===
+2026-01-02 14:33:11 - MyKingdom - INFO - Tiered World Generator initialized with seed: 226035
+2026-01-02 14:33:11 - MyKingdom - INFO - Generating large world map...
+2026-01-02 14:33:11 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 14:33:11 - MyKingdom - INFO - World generation complete!
+2026-01-02 14:33:11 - MyKingdom - INFO - Biome distribution:
+2026-01-02 14:33:11 - MyKingdom - INFO -   tundra: 11500 tiles (51.1%)
+2026-01-02 14:33:11 - MyKingdom - INFO -   temperate_forest: 6179 tiles (27.5%)
+2026-01-02 14:33:11 - MyKingdom - INFO -   boreal_forest: 4202 tiles (18.7%)
+2026-01-02 14:33:11 - MyKingdom - INFO -   grassland: 619 tiles (2.8%)
+2026-01-02 14:33:11 - MyKingdom - INFO - Using player-selected location: (55, 104)
+2026-01-02 14:33:11 - MyKingdom - INFO - Generating starting region (biome: boreal_forest)...
+2026-01-02 14:33:11 - MyKingdom - INFO - Generating region from world tile (55, 104)...
+2026-01-02 14:33:11 - MyKingdom - INFO -   Biome: boreal_forest, Elevation: 0.51
+2026-01-02 14:33:12 - MyKingdom - INFO - Generating local playable map...
+2026-01-02 14:33:12 - MyKingdom - INFO - Generating local map from region chunk (40, 40)...
+2026-01-02 14:33:12 - MyKingdom - INFO -   Chunk analysis: Biome=boreal_forest, Avg Elev=0.50
+2026-01-02 14:33:12 - MyKingdom - INFO - Local map generated successfully
+2026-01-02 14:33:12 - MyKingdom - INFO - Renderer biome set to: boreal_forest
+2026-01-02 14:33:12 - MyKingdom - INFO - Creating starting citizens...
+2026-01-02 14:33:12 - MyKingdom - INFO - Created citizen: Doran Thornberry (ID: 1)
+2026-01-02 14:33:12 - MyKingdom - INFO - Created citizen: Rolan Meadowbrook (ID: 2)
+2026-01-02 14:33:12 - MyKingdom - INFO - Created citizen: Rolan Thornberry (ID: 3)
+2026-01-02 14:33:12 - MyKingdom - INFO - Created citizen: Finn Underhill (ID: 4)
+2026-01-02 14:33:12 - MyKingdom - INFO - Created citizen: Sasha Silverstream (ID: 5)
+2026-01-02 14:33:12 - MyKingdom - INFO - Game saved successfully: saves\lol.sav.gz
+2026-01-02 14:33:12 - MyKingdom - INFO - Game saved: lol
+2026-01-02 14:33:12 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-02 14:33:12 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 14:33:27 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:33:33 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:33:34 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:33:46 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:33:58 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:02 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:06 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:19 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:21 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:23 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:28 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:34:30 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:31 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:31 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:33 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:34 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:34 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:34:35 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 14:34:36 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:38 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:34:39 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 14:34:52 - MyKingdom - INFO - Building mode toggled: ON
+2026-01-02 14:34:54 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 14:34:55 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 14:34:57 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 14:35:03 - MyKingdom - INFO - Building mode toggled: OFF
+2026-01-02 14:35:05 - MyKingdom - INFO - Escape pressed - saving and returning to menu
+2026-01-02 14:35:05 - MyKingdom - INFO - Game saved successfully: saves\lol.sav.gz
+2026-01-02 14:35:05 - MyKingdom - INFO - Game saved: lol
+2026-01-02 14:35:05 - MyKingdom - INFO - Entering MENU state
+2026-01-02 14:35:05 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 14:35:05 - MyKingdom - INFO - Main menu initialized
+2026-01-02 14:35:07 - MyKingdom - INFO - Load Game button clicked
+2026-01-02 14:35:07 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 14:35:07 - MyKingdom - INFO - Found 10 save files
+2026-01-02 14:35:13 - MyKingdom - INFO - Loading game: jiij
+2026-01-02 14:35:13 - MyKingdom - INFO - Loading game: jiij
+2026-01-02 14:35:13 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 14:35:13 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 14:35:13 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 14:35:13 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 14:35:13 - MyKingdom - INFO - Game state initialized
+2026-01-02 14:35:13 - MyKingdom - INFO - Loaded compressed save: saves\jiij.sav.gz
+2026-01-02 14:35:13 - MyKingdom - INFO - Renderer biome set to: temperate_forest

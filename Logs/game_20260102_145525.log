@@ -1,0 +1,36 @@
+2026-01-02 14:55:25 - MyKingdom - INFO - ============================================================
+2026-01-02 14:55:25 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 14:55:25 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_145525.log
+2026-01-02 14:55:25 - MyKingdom - INFO - ============================================================
+2026-01-02 14:55:26 - MyKingdom - INFO - ============================================================
+2026-01-02 14:55:26 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 14:55:26 - MyKingdom - INFO - ============================================================
+2026-01-02 14:55:26 - MyKingdom - INFO - Pygame initialized
+2026-01-02 14:55:26 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 14:55:26 - MyKingdom - INFO - Application initialization complete
+2026-01-02 14:55:26 - MyKingdom - INFO - Starting main application loop
+2026-01-02 14:55:26 - MyKingdom - INFO - Entering MENU state
+2026-01-02 14:55:26 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 14:55:26 - MyKingdom - INFO - Main menu initialized
+2026-01-02 14:55:27 - MyKingdom - INFO - New Game button clicked
+2026-01-02 14:55:30 - MyKingdom - INFO - Starting new game: 123
+2026-01-02 14:55:30 - MyKingdom - INFO - Starting new game: 123
+2026-01-02 14:55:30 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 14:55:30 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 14:55:30 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 14:55:30 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 14:55:30 - MyKingdom - INFO - Game state initialized
+2026-01-02 14:55:30 - MyKingdom - INFO - Tiered World Generator initialized with seed: 258287
+2026-01-02 14:55:30 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 14:55:30 - MyKingdom - INFO - World generation complete!
+2026-01-02 14:55:30 - MyKingdom - INFO - Biome distribution:
+2026-01-02 14:55:30 - MyKingdom - INFO -   tundra: 11656 tiles (51.8%)
+2026-01-02 14:55:30 - MyKingdom - INFO -   boreal_forest: 5075 tiles (22.6%)
+2026-01-02 14:55:30 - MyKingdom - INFO -   temperate_forest: 4804 tiles (21.4%)
+2026-01-02 14:55:30 - MyKingdom - INFO -   grassland: 965 tiles (4.3%)
+2026-01-02 14:55:30 - MyKingdom - INFO - Multi-stage world selection screen initialized
+2026-01-02 14:55:40 - MyKingdom - INFO - Generating region preview for world tile tundra...
+2026-01-02 14:55:40 - MyKingdom - INFO - Generating region from world tile (57, 81)...
+2026-01-02 14:55:40 - MyKingdom - INFO -   Biome: tundra, Elevation: 0.52
+2026-01-02 14:55:40 - MyKingdom - INFO - Advanced to REGION view for world tile (57, 81)
+2026-01-02 14:55:46 - MyKingdom - INFO - Generating local preview from region tile (41, 33)...

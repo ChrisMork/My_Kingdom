@@ -1,0 +1,14 @@
+================================================================================
+MY KINGDOM - DEVELOPMENT SESSION LOG
+Session Started: 2026-01-02T16:25:26.761990
+================================================================================
+
+
+================================================================================
+[2026-01-02T16:25:26.762991] USER PROMPT:
+--------------------------------------------------------------------------------
+Please continue with where you left off. You were working on the path finding and the base gameplay for the game, please take a look through the job manager.py to see what you were working on. You crashed so I am not sure where you left off. I also had mentioned adding a wagon that stores all the resources that the sprites go and collect. Also please from now on create a log file that contains all of the prompts I say, followed by each step that you followed through with everytime. That way if you ever crash again you can look at that
+
+[2026-01-02T16:25:26.762991] STEP 1: Created session logging system at src/core/session_logger.py
+
+[2026-01-02T16:25:26.762991] STEP 2: Analyzing current state of job_manager.py and gameplay systems

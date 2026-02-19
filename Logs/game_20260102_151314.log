@@ -1,0 +1,318 @@
+2026-01-02 15:13:14 - MyKingdom - INFO - ============================================================
+2026-01-02 15:13:14 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 15:13:14 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_151314.log
+2026-01-02 15:13:14 - MyKingdom - INFO - ============================================================
+2026-01-02 15:13:15 - MyKingdom - INFO - ============================================================
+2026-01-02 15:13:15 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 15:13:15 - MyKingdom - INFO - ============================================================
+2026-01-02 15:13:15 - MyKingdom - INFO - Pygame initialized
+2026-01-02 15:13:15 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 15:13:15 - MyKingdom - INFO - Application initialization complete
+2026-01-02 15:13:15 - MyKingdom - INFO - Starting main application loop
+2026-01-02 15:13:15 - MyKingdom - INFO - Entering MENU state
+2026-01-02 15:13:15 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 15:13:15 - MyKingdom - INFO - Main menu initialized
+2026-01-02 15:13:31 - MyKingdom - INFO - New Game button clicked
+2026-01-02 15:13:34 - MyKingdom - INFO - Starting new game: 158
+2026-01-02 15:13:34 - MyKingdom - INFO - Starting new game: 158
+2026-01-02 15:13:34 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 15:13:34 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 15:13:34 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:13:34 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 15:13:34 - MyKingdom - INFO - Game state initialized
+2026-01-02 15:13:34 - MyKingdom - INFO - Tiered World Generator initialized with seed: 314855
+2026-01-02 15:13:34 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 15:13:35 - MyKingdom - INFO - World generation complete!
+2026-01-02 15:13:35 - MyKingdom - INFO - Biome distribution:
+2026-01-02 15:13:35 - MyKingdom - INFO -   tundra: 11826 tiles (52.6%)
+2026-01-02 15:13:35 - MyKingdom - INFO -   boreal_forest: 7132 tiles (31.7%)
+2026-01-02 15:13:35 - MyKingdom - INFO -   temperate_forest: 3086 tiles (13.7%)
+2026-01-02 15:13:35 - MyKingdom - INFO -   grassland: 235 tiles (1.0%)
+2026-01-02 15:13:35 - MyKingdom - INFO -   wetland: 221 tiles (1.0%)
+2026-01-02 15:13:35 - MyKingdom - INFO - Multi-stage world selection screen initialized
+2026-01-02 15:14:00 - MyKingdom - INFO - Generating region preview for world tile tundra...
+2026-01-02 15:14:00 - MyKingdom - INFO - Generating region from world tile (62, 75)...
+2026-01-02 15:14:00 - MyKingdom - INFO -   Biome: tundra, Elevation: 0.59
+2026-01-02 15:14:00 - MyKingdom - INFO - Advanced to REGION view for world tile (62, 75)
+2026-01-02 15:14:05 - MyKingdom - INFO - Generating local preview from region tile (48, 40)...
+2026-01-02 15:14:05 - MyKingdom - INFO - Generating local map from region chunk (48, 40)...
+2026-01-02 15:14:05 - MyKingdom - INFO -   Chunk analysis: Biome=tundra, Avg Elev=0.71
+2026-01-02 15:14:05 - MyKingdom - INFO - Local map generated successfully
+2026-01-02 15:14:05 - MyKingdom - INFO - Advanced to LOCAL view
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:05 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:05 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:06 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:06 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:07 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:07 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:08 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:08 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Location confirmed!
+2026-01-02 15:14:09 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - === STARTING NEW GAME: 158 ===
+2026-01-02 15:14:09 - MyKingdom - INFO - Using pre-generated world and tiles from selection screen
+2026-01-02 15:14:09 - MyKingdom - INFO - Using player-selected location: (62, 75)
+2026-01-02 15:14:09 - MyKingdom - INFO - Using pre-generated region tiles from preview
+2026-01-02 15:14:09 - MyKingdom - INFO - Using selected region coordinates: (48, 40)
+2026-01-02 15:14:09 - MyKingdom - INFO - Using pre-generated local tiles from preview - terrain will match preview!
+2026-01-02 15:14:09 - MyKingdom - INFO - Renderer biome set to: tundra
+2026-01-02 15:14:09 - MyKingdom - INFO - Creating starting citizens...
+2026-01-02 15:14:09 - MyKingdom - INFO - Created citizen: Rolan Fairwind (ID: 1)
+2026-01-02 15:14:09 - MyKingdom - INFO - Created citizen: Olwen Clearwater (ID: 2)
+2026-01-02 15:14:09 - MyKingdom - INFO - Created citizen: Doran Lightfoot (ID: 3)
+2026-01-02 15:14:09 - MyKingdom - INFO - Created citizen: Greta Meadowbrook (ID: 4)
+2026-01-02 15:14:09 - MyKingdom - INFO - Created citizen: Xander Underhill (ID: 5)
+2026-01-02 15:14:10 - MyKingdom - INFO - Game saved successfully: saves\158.sav.gz
+2026-01-02 15:14:10 - MyKingdom - INFO - Game saved: 158
+2026-01-02 15:14:10 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-02 15:14:10 - MyKingdom - INFO - Game initialized successfully
+2026-01-02 15:14:29 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 15:14:30 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 15:14:31 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 15:14:31 - MyKingdom - INFO - Switched to WORLD view
+2026-01-02 15:14:32 - MyKingdom - INFO - Switched to REGION view
+2026-01-02 15:14:33 - MyKingdom - INFO - Switched to LOCAL view - building enabled
+2026-01-02 15:14:40 - MyKingdom - INFO - Snapped camera to home in local view
+2026-01-02 15:14:44 - MyKingdom - INFO - Quit event received from game
+2026-01-02 15:14:44 - MyKingdom - INFO - ============================================================
+2026-01-02 15:14:44 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 15:14:44 - MyKingdom - INFO - ============================================================

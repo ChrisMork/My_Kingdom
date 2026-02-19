@@ -1,0 +1,741 @@
+2026-01-02 20:38:30 - MyKingdom - INFO - ============================================================
+2026-01-02 20:38:30 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 20:38:30 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_203830.log
+2026-01-02 20:38:30 - MyKingdom - INFO - ============================================================
+2026-01-02 20:38:30 - MyKingdom - INFO - ============================================================
+2026-01-02 20:38:30 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-02 20:38:30 - MyKingdom - INFO - ============================================================
+2026-01-02 20:38:30 - MyKingdom - INFO - Pygame initialized
+2026-01-02 20:38:30 - MyKingdom - INFO - Window created: 1280x720
+2026-01-02 20:38:30 - MyKingdom - INFO - Application initialization complete
+2026-01-02 20:38:30 - MyKingdom - INFO - Starting main application loop
+2026-01-02 20:38:30 - MyKingdom - INFO - Entering MENU state
+2026-01-02 20:38:31 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 20:38:31 - MyKingdom - INFO - Music settings loaded: enabled=True, volume=0.07
+2026-01-02 20:38:31 - MyKingdom - INFO - Music manager initialized
+2026-01-02 20:38:31 - MyKingdom - INFO - Playing music: menu
+2026-01-02 20:38:31 - MyKingdom - INFO - Main menu initialized
+2026-01-02 20:38:34 - MyKingdom - INFO - New Game button clicked
+2026-01-02 20:38:35 - MyKingdom - INFO - Starting new game: 123
+2026-01-02 20:38:35 - MyKingdom - INFO - Starting new game: 123
+2026-01-02 20:38:35 - MyKingdom - INFO - Entering PLAYING state
+2026-01-02 20:38:35 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-02 20:38:35 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:35 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-02 20:38:35 - MyKingdom - INFO - Game state initialized
+2026-01-02 20:38:35 - MyKingdom - INFO - Tiered World Generator initialized with seed: 36743
+2026-01-02 20:38:35 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-02 20:38:36 - MyKingdom - INFO - World generation complete!
+2026-01-02 20:38:36 - MyKingdom - INFO - Biome distribution:
+2026-01-02 20:38:36 - MyKingdom - INFO -   tundra: 9205 tiles (40.9%)
+2026-01-02 20:38:36 - MyKingdom - INFO -   boreal_forest: 7315 tiles (32.5%)
+2026-01-02 20:38:36 - MyKingdom - INFO -   temperate_forest: 3952 tiles (17.6%)
+2026-01-02 20:38:36 - MyKingdom - INFO -   grassland: 1926 tiles (8.6%)
+2026-01-02 20:38:36 - MyKingdom - INFO -   arid_shrubland: 102 tiles (0.5%)
+2026-01-02 20:38:36 - MyKingdom - INFO - Multi-stage world selection screen initialized
+2026-01-02 20:38:38 - MyKingdom - INFO - Generating region preview for world tile temperate_forest...
+2026-01-02 20:38:38 - MyKingdom - INFO - Generating region from world tile (75, 75)...
+2026-01-02 20:38:38 - MyKingdom - INFO -   Biome: temperate_forest, Elevation: 0.35
+2026-01-02 20:38:39 - MyKingdom - INFO - Advanced to REGION view for world tile (75, 75)
+2026-01-02 20:38:39 - MyKingdom - INFO - Generating local preview from region tile (40, 40)...
+2026-01-02 20:38:39 - MyKingdom - INFO - Generating local map from region chunk (40, 40)...
+2026-01-02 20:38:39 - MyKingdom - INFO -   Chunk analysis: Biome=temperate_forest, Avg Elev=0.33
+2026-01-02 20:38:39 - MyKingdom - INFO - Placed resource nodes on local map
+2026-01-02 20:38:39 - MyKingdom - INFO - Local map generated successfully
+2026-01-02 20:38:39 - MyKingdom - INFO - Advanced to LOCAL view
+2026-01-02 20:38:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:39 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:39 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:40 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:40 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:41 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:41 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:42 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:42 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:43 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:43 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:44 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:44 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:45 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:45 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:46 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:46 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:48 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:48 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:49 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:49 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:50 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:50 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:51 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:51 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:52 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:52 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-02 20:38:53 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-02 20:38:53 - MyKingdom - INFO - Returned to REGION view
+2026-01-02 20:38:53 - MyKingdom - INFO - Returned to WORLD view
+2026-01-02 20:38:56 - MyKingdom - INFO - Entering MENU state
+2026-01-02 20:38:56 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-02 20:38:57 - MyKingdom - INFO - Playing music: menu
+2026-01-02 20:38:57 - MyKingdom - INFO - Main menu initialized
+2026-01-02 20:38:59 - MyKingdom - INFO - Quit event received from menu
+2026-01-02 20:38:59 - MyKingdom - INFO - ============================================================
+2026-01-02 20:38:59 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-02 20:38:59 - MyKingdom - INFO - ============================================================

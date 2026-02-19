@@ -1,0 +1,21 @@
+================================================================================
+MY KINGDOM - DEVELOPMENT SESSION LOG
+Session Started: 2026-01-02T16:56:49.820153
+================================================================================
+
+
+================================================================================
+[2026-01-02T16:56:49.821154] USER PROMPT:
+--------------------------------------------------------------------------------
+User reported: 1) Citizens not moving to gather resources, 2) Infinite wood collection bug
+
+[2026-01-02T16:56:49.821154] ACTION - FILE_EDIT:
+  Description: Fixed gathering task completion logic
+  Details: {
+  "file": "src/systems/job_manager.py",
+  "changes": [
+    "Moved unassign_citizen() before resource check",
+    "Added else clause to clear task if resource is depleted",
+    "This prevents citizens from being stuck in gathering loop"
+  ]
+}

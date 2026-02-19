@@ -1,0 +1,11 @@
+2026-01-02 15:29:17 - MyKingdom - INFO - ============================================================
+2026-01-02 15:29:17 - MyKingdom - INFO - Game Logger Initialized
+2026-01-02 15:29:17 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260102_152917.log
+2026-01-02 15:29:17 - MyKingdom - INFO - ============================================================
+2026-01-02 15:29:17 - MyKingdom - INFO - Generating menu music (120s)...
+2026-01-02 15:29:18 - MyKingdom - INFO - Menu music generated successfully
+2026-01-02 15:29:18 - MyKingdom - INFO - Saved audio to C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\assets\audio\music\menu_theme.wav
+2026-01-02 15:29:18 - MyKingdom - INFO - Generating gameplay music (180s)...
+2026-01-02 15:29:19 - MyKingdom - INFO - Gameplay music generated successfully
+2026-01-02 15:29:19 - MyKingdom - INFO - Saved audio to C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\assets\audio\music\gameplay_theme.wav
+2026-01-02 15:29:19 - MyKingdom - INFO - All music tracks generated!

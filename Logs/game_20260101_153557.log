@@ -1,0 +1,120 @@
+2026-01-01 15:35:57 - MyKingdom - INFO - ============================================================
+2026-01-01 15:35:57 - MyKingdom - INFO - Game Logger Initialized
+2026-01-01 15:35:57 - MyKingdom - INFO - Log file: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\Logs\game_20260101_153557.log
+2026-01-01 15:35:57 - MyKingdom - INFO - ============================================================
+2026-01-01 15:35:58 - MyKingdom - INFO - ============================================================
+2026-01-01 15:35:58 - MyKingdom - INFO - MY KINGDOM - Starting Application
+2026-01-01 15:35:58 - MyKingdom - INFO - ============================================================
+2026-01-01 15:35:58 - MyKingdom - INFO - Pygame initialized
+2026-01-01 15:35:58 - MyKingdom - INFO - Window created: 1280x720
+2026-01-01 15:35:58 - MyKingdom - INFO - Application initialization complete
+2026-01-01 15:35:58 - MyKingdom - INFO - Starting main application loop
+2026-01-01 15:35:58 - MyKingdom - INFO - Entering MENU state
+2026-01-01 15:35:58 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-01 15:35:58 - MyKingdom - INFO - Main menu initialized
+2026-01-01 15:36:03 - MyKingdom - INFO - New Game button clicked
+2026-01-01 15:36:13 - MyKingdom - INFO - Starting new game: Testing My World 1
+2026-01-01 15:36:13 - MyKingdom - INFO - Starting new game: Testing My World 1
+2026-01-01 15:36:13 - MyKingdom - INFO - Entering PLAYING state
+2026-01-01 15:36:13 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-01 15:36:13 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-01 15:36:13 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-01 15:36:13 - MyKingdom - INFO - Game state initialized
+2026-01-01 15:36:13 - MyKingdom - INFO - === STARTING NEW GAME: Testing My World 1 ===
+2026-01-01 15:36:13 - MyKingdom - INFO - Tiered World Generator initialized with seed: 986512
+2026-01-01 15:36:13 - MyKingdom - INFO - Generating large world map...
+2026-01-01 15:36:13 - MyKingdom - INFO - Generating world map: 150x150...
+2026-01-01 15:36:14 - MyKingdom - INFO - World generation complete!
+2026-01-01 15:36:14 - MyKingdom - INFO - Biome distribution:
+2026-01-01 15:36:14 - MyKingdom - INFO -   tundra: 9786 tiles (43.5%)
+2026-01-01 15:36:14 - MyKingdom - INFO -   temperate_forest: 6236 tiles (27.7%)
+2026-01-01 15:36:14 - MyKingdom - INFO -   boreal_forest: 5170 tiles (23.0%)
+2026-01-01 15:36:14 - MyKingdom - INFO -   grassland: 1009 tiles (4.5%)
+2026-01-01 15:36:14 - MyKingdom - INFO -   tropical_rainforest: 218 tiles (1.0%)
+2026-01-01 15:36:14 - MyKingdom - INFO -   wetland: 81 tiles (0.4%)
+2026-01-01 15:36:14 - MyKingdom - INFO - Selecting starting location...
+2026-01-01 15:36:14 - MyKingdom - INFO - Generating starting region (biome: temperate_forest)...
+2026-01-01 15:36:14 - MyKingdom - INFO - Generating region from world tile (21, 60)...
+2026-01-01 15:36:14 - MyKingdom - INFO -   Biome: temperate_forest, Elevation: 0.55
+2026-01-01 15:36:14 - MyKingdom - INFO - Generating local playable map...
+2026-01-01 15:36:14 - MyKingdom - INFO - Generating local map from region chunk (40, 40)...
+2026-01-01 15:36:14 - MyKingdom - INFO -   Chunk analysis: Biome=temperate_forest, Avg Elev=0.51
+2026-01-01 15:36:14 - MyKingdom - INFO - Local map generated successfully
+2026-01-01 15:36:14 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-01 15:36:14 - MyKingdom - INFO - Creating starting citizens...
+2026-01-01 15:36:14 - MyKingdom - INFO - Created citizen: Jorah Youngblood (ID: 1)
+2026-01-01 15:36:14 - MyKingdom - INFO - Created citizen: Lysa Oakenshield (ID: 2)
+2026-01-01 15:36:14 - MyKingdom - INFO - Created citizen: Hilda Dawnbringer (ID: 3)
+2026-01-01 15:36:14 - MyKingdom - INFO - Created citizen: Nolan Nightshade (ID: 4)
+2026-01-01 15:36:14 - MyKingdom - INFO - Created citizen: Doran Clearwater (ID: 5)
+2026-01-01 15:36:14 - MyKingdom - INFO - Game saved successfully: saves\Testing My World 1.sav.gz
+2026-01-01 15:36:14 - MyKingdom - INFO - Game saved: Testing My World 1
+2026-01-01 15:36:14 - MyKingdom - INFO - === NEW GAME STARTED SUCCESSFULLY ===
+2026-01-01 15:36:14 - MyKingdom - INFO - Game initialized successfully
+2026-01-01 15:36:41 - MyKingdom - INFO - Escape pressed - saving and returning to menu
+2026-01-01 15:36:41 - MyKingdom - INFO - Game saved successfully: saves\Testing My World 1.sav.gz
+2026-01-01 15:36:41 - MyKingdom - INFO - Game saved: Testing My World 1
+2026-01-01 15:36:41 - MyKingdom - INFO - Entering MENU state
+2026-01-01 15:36:41 - MyKingdom - INFO - AI-generated menu background loaded successfully
+2026-01-01 15:36:41 - MyKingdom - INFO - Main menu initialized
+2026-01-01 15:36:43 - MyKingdom - INFO - Load Game button clicked
+2026-01-01 15:36:43 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-01 15:36:43 - MyKingdom - INFO - Found 1 save files
+2026-01-01 15:36:47 - MyKingdom - INFO - Loading game: Testing My World 1
+2026-01-01 15:36:47 - MyKingdom - INFO - Loading game: Testing My World 1
+2026-01-01 15:36:47 - MyKingdom - INFO - Entering PLAYING state
+2026-01-01 15:36:47 - MyKingdom - INFO - Initializing new GameState system...
+2026-01-01 15:36:47 - MyKingdom - INFO - Cozy renderer initialized with tile size: 32
+2026-01-01 15:36:47 - MyKingdom - INFO - Save system initialized. Save directory: C:\Users\Chris Mork\Desktop\My-KingdomVersion 3\saves
+2026-01-01 15:36:47 - MyKingdom - INFO - Game state initialized
+2026-01-01 15:36:47 - MyKingdom - INFO - Loaded compressed save: saves\Testing My World 1.sav.gz
+2026-01-01 15:36:47 - MyKingdom - INFO - Renderer biome set to: temperate_forest
+2026-01-01 15:36:47 - MyKingdom - INFO - World state deserialized: 5 citizens, 0 buildings
+2026-01-01 15:36:47 - MyKingdom - INFO - Game loaded: Testing My World 1
+2026-01-01 15:36:47 - MyKingdom - INFO - Game initialized successfully
+2026-01-01 15:36:52 - MyKingdom - INFO - Building mode toggled: ON
+2026-01-01 15:37:11 - MyKingdom - INFO - Selected: House
+2026-01-01 15:37:12 - MyKingdom - INFO - Placed house at (49, 47), ID: 1
+2026-01-01 15:37:12 - MyKingdom - INFO - Game saved successfully: saves\autosave_20260101_153712.sav.gz
+2026-01-01 15:37:12 - MyKingdom - INFO - Found 2 save files
+2026-01-01 15:37:12 - MyKingdom - INFO - Placed house at (49, 47)
+2026-01-01 15:37:17 - MyKingdom - INFO - Selected: Storage
+2026-01-01 15:37:17 - MyKingdom - INFO - Placed storage at (43, 46), ID: 2
+2026-01-01 15:37:18 - MyKingdom - INFO - Game saved successfully: saves\autosave_20260101_153717.sav.gz
+2026-01-01 15:37:18 - MyKingdom - INFO - Found 3 save files
+2026-01-01 15:37:18 - MyKingdom - INFO - Placed storage at (43, 46)
+2026-01-01 15:37:25 - MyKingdom - INFO - Selected: Workshop
+2026-01-01 15:37:29 - MyKingdom - INFO - Placed workshop at (54, 46), ID: 3
+2026-01-01 15:37:29 - MyKingdom - INFO - Game saved successfully: saves\autosave_20260101_153729.sav.gz
+2026-01-01 15:37:29 - MyKingdom - INFO - Found 4 save files
+2026-01-01 15:37:29 - MyKingdom - INFO - Placed workshop at (54, 46)
+2026-01-01 15:38:05 - MyKingdom - INFO - Selected: Farm
+2026-01-01 15:38:06 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:06 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:07 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:07 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:09 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:09 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:09 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:09 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:10 - MyKingdom - WARNING - Cannot place farm at (50, 44)
+2026-01-01 15:38:12 - MyKingdom - INFO - Selected: Mine
+2026-01-01 15:38:13 - MyKingdom - INFO - Placed mine at (50, 44), ID: 4
+2026-01-01 15:38:13 - MyKingdom - INFO - Game saved successfully: saves\autosave_20260101_153813.sav.gz
+2026-01-01 15:38:13 - MyKingdom - INFO - Found 5 save files
+2026-01-01 15:38:13 - MyKingdom - INFO - Placed mine at (50, 44)
+2026-01-01 15:38:43 - MyKingdom - INFO - Placed mine at (38, 46), ID: 5
+2026-01-01 15:38:43 - MyKingdom - INFO - Game saved successfully: saves\autosave_20260101_153843.sav.gz
+2026-01-01 15:38:43 - MyKingdom - INFO - Found 6 save files
+2026-01-01 15:38:43 - MyKingdom - INFO - Placed mine at (38, 46)
+2026-01-01 15:38:53 - MyKingdom - INFO - Quit event received from game
+2026-01-01 15:38:53 - MyKingdom - INFO - ============================================================
+2026-01-01 15:38:53 - MyKingdom - INFO - MY KINGDOM - Shutting Down
+2026-01-01 15:38:53 - MyKingdom - INFO - ============================================================
